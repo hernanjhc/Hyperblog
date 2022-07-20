@@ -1,0 +1,6440 @@
+<<<<<<< HEAD
+Platzi isotipo
+
+Platzi Logo
+
+<https://platzi.com/home>
+Joaquin
+
+543 pts
+
+  *
+    Home
+     <https://platzi.com/home/>
+  *
+    Blog
+     <https://platzi.com/blog/>
+  *
+    Comunidad
+     <https://platzi.com/comunidad/>
+  *
+    Agenda
+     <https://platzi.com/agenda/>
+  *
+    TV
+     <https://platzi.com/live/>
+
+    ------------------------------------------------------------------------
+    ------------------------------------------------------------------------
+  * Ver todos los resultados <https://platzi.com/buscar/?search=>
+
+Curso Profesional de Git y GitHub
+
+Curso Profesional de Git y GitHub <https://platzi.com/cursos/git-github/>
+
+Introducción a Git
+
+1
+
+¿Por qué usar un sistema de control de versiones como Git?
+
+<https://platzi.com/clases/1557-git-github/19934-por-que-usar-un-sistema-de-control-de-versiones-co/>
+2
+
+¿Qué es Git?
+
+<https://platzi.com/clases/1557-git-github/20215-que-es-git/>
+3
+
+Instalando Git y GitBash en Windows
+
+<https://platzi.com/clases/1557-git-github/19933-instalando-git-y-gitbash-en-windows/>
+4
+
+Instalando Git en OSX
+
+<https://platzi.com/clases/1557-git-github/19932-instalando-gitbash-en-osx/>
+5
+
+Instalando Git en Linux
+
+<https://platzi.com/clases/1557-git-github/19931-instalando-git-en-linux/>
+6
+
+Editores de código, archivos binarios y de texto plano
+
+<https://platzi.com/clases/1557-git-github/19938-editores-de-codigo-archivos-binarios-y-de-texto-pl/>
+7
+
+Introducción a la terminal y línea de comandos
+
+<https://platzi.com/clases/1557-git-github/19937-introduccion-a-la-terminal-y-linea-de-comandos/>
+
+Comandos básicos en Git
+
+8
+
+Crea un repositorio de Git y haz tu primer commit
+
+<https://platzi.com/clases/1557-git-github/19936-crea-un-repositorio-de-git-y-haz-tu-primer-commit/>
+9
+
+Analizar cambios en los archivos de tu proyecto con Git
+
+<https://platzi.com/clases/1557-git-github/19945-analizar-cambios-en-los-archivos-de-tu-proyecto-co/>
+10
+
+¿Qué es el staging y los repositorios? Ciclo básico de trabajo en Git
+
+<https://platzi.com/clases/1557-git-github/19946-que-es-el-staging-y-los-repositorios-ciclo-basico-/>
+11
+
+¿Qué es branch (rama) y cómo funciona un Merge en Git?
+
+<https://platzi.com/clases/1557-git-github/19947-que-es-un-branch-rama-y-como-funciona-un-merge-en-/>
+12
+
+Volver en el tiempo en nuestro repositorio utilizando reset y checkout
+
+<https://platzi.com/clases/1557-git-github/19948-volver-en-el-tiempo-en-nuestro-repositorio-utiliza/>
+13
+
+Git reset vs. Git rm
+
+<https://platzi.com/clases/1557-git-github/23295-git-reset-vs-git-rm/>
+
+Flujo de trabajo básico en Git
+
+14
+
+Flujo de trabajo básico con un repositorio remoto
+
+<https://platzi.com/clases/1557-git-github/19935-flujo-de-trabajo-basico-con-un-repositorio-remoto/>
+15
+
+Introducción a las ramas o branches de Git
+
+<https://platzi.com/clases/1557-git-github/19940-introduccion-a-las-ramas-o-branches-de-git/>
+16
+
+Fusión de ramas con Git merge
+
+<https://platzi.com/clases/1557-git-github/19939-funcion-de-ramas-con-git-mer-7/>
+17
+
+Resolución de conflictos al hacer un merge
+
+<https://platzi.com/clases/1557-git-github/19941-resolucion-de-conflictos-al-hacer-un-merge/>
+
+Trabajando con repositorios remotos en GitHub
+
+18
+
+Cambios en GitHub: de master a main
+
+<https://platzi.com/clases/1557-git-github/35869-cambios-en-github-de-master-a-main/>
+19
+
+Uso de GitHub
+
+<https://platzi.com/clases/1557-git-github/19942-uso-de-github/>
+20
+
+Cómo funcionan las llaves públicas y privadas
+
+<https://platzi.com/clases/1557-git-github/19949-como-funcionan-las-llaves-publicas-y-privadas/>
+21
+
+Configura tus llaves SSH en local
+
+<https://platzi.com/clases/1557-git-github/19950-configurar-llaves-ssh-en-github/>
+22
+
+Conexión a GitHub con SSH
+
+<https://platzi.com/clases/1557-git-github/19951-conexion-a-github-con-ssh/>
+23
+
+Tags y versiones en Git y GitHub
+
+<https://platzi.com/clases/1557-git-github/19952-tags-y-versiones-en-git-y-github/>
+24
+
+Manejo de ramas en GitHub
+
+<https://platzi.com/clases/1557-git-github/19953-manejo-de-ramas-en-github/>
+25
+
+Configurar múltiples colaboradores en un repositorio de GitHub
+
+<https://platzi.com/clases/1557-git-github/19954-configurar-multiples-colaboradores-en-un-repositor/>
+
+Flujos de trabajo profesionales
+
+26
+
+Flujo de trabajo profesional: Haciendo merge de ramas de desarrollo a master
+
+<https://platzi.com/clases/1557-git-github/19955-flujo-de-trabajo-profesional-haciendo-merge-de-ram/>
+27
+
+Flujo de trabajo profesional con Pull requests
+
+<https://platzi.com/clases/1557-git-github/19956-flujo-de-trabajo-profesional-con-pull-requests/>
+28
+
+Utilizando Pull Requests en GitHub
+
+<https://platzi.com/clases/1557-git-github/19957-utilizando-pull-requests-en-github/>
+29
+
+Creando un Fork, contribuyendo a un repositorio
+
+<https://platzi.com/clases/1557-git-github/19978-creando-un-fork-contribuyendo-a-un-repositorio/>
+30
+
+Haciendo deployment a un servidor
+
+<https://platzi.com/clases/1557-git-github/19958-haciendo-deployment-a-un-servidor/>
+31
+
+Hazme un pull request
+
+<https://platzi.com/clases/1557-git-github/19959-hazme-un-pull-request/>
+32
+
+Ignorar archivos en el repositorio con .gitignore
+
+<https://platzi.com/clases/1557-git-github/19960-ignorar-archivos-en-el-repositorio-con-gitignore/>
+33
+
+Readme.md es una excelente práctica
+
+<https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/>
+34
+
+Tu sitio web público con GitHub Pages
+
+<https://platzi.com/clases/1557-git-github/19976-tu-sitio-web-publico-con-github-pages/>
+
+Multiples entornos de trabajo en Git
+
+35
+
+Git Rebase: reorganizando el trabajo realizado
+
+<https://platzi.com/clases/1557-git-github/19975-git-rebase-reorganizando-el-trabajo-realizado/>
+36
+
+Git Stash: Guardar cambios en memoria y recuperarlos después
+
+<https://platzi.com/clases/1557-git-github/19984-stash/>
+37
+
+Git Clean: limpiar tu proyecto de archivos no deseados
+
+<https://platzi.com/clases/1557-git-github/19983-git-clean-limpiar-tu-proyecto-de-archivos-no-desea/>
+38
+
+Git cherry-pick: traer commits viejos al head de un branch
+
+<https://platzi.com/clases/1557-git-github/19982-git-cherry-pick-traer-commits-viejos-al-head-de-un/>
+
+Comandos de Git para casos de emergencia
+
+39
+
+Git Reset y Reflog: úsese en caso de emergencia
+
+<https://platzi.com/clases/1557-git-github/19988-git-reset-y-reflog-usese-en-caso-de-emergencia/>
+40
+
+Reconstruir commits en Git con amend
+
+<https://platzi.com/clases/1557-git-github/19981-reconstruir-commits-en-git-con-amend/>
+41
+
+Buscar en archivos y commits de Git con Grep y log
+
+<https://platzi.com/clases/1557-git-github/19987-buscar-en-archivos-y-commits-de-git-con-grep-y-log/>
+
+Bonus sobre Git y Github
+
+42
+
+Comandos y recursos colaborativos en Git y GitHub
+
+<https://platzi.com/clases/1557-git-github/19986-comandos-y-recursos-colaborativos-en-git-y-github/>
+43
+
+Tu futuro con Git y GitHub
+
+<https://platzi.com/clases/1557-git-github/19985-tu-futuro-con-git-y-github/>
+Video Player is loading.
+Play Video
+Pause
+
+Mute
+
+Loaded: 31.66%
+00:12
+02:25
+Current Time 2:25
+/
+Duration 10:51
+Remaining Time -8:26
+1x
+Playback Rate
+
+  * 2x
+  * 1.75x
+  * 1.5x
+  * 1.25x
+  * 1x, selected
+  * 0.85x
+  * 0.5x
+
+Subtitles
+
+  * subtitles settings, opens subtitles settings dialog
+  * subtitles off, selected
+
+    create bookmark
+
+    share bookmark
+
+    Server AServer BServer C
+    Autoplay
+    Autopause
+
+Picture-in-Picture
+
+Fullscreen
+
+This is a modal window.
+
+Beginning of dialog window. Escape will cancel and close the window.
+
+Text
+
+Color
+
+Transparency
+
+Background
+
+Color
+
+Transparency
+
+Window
+
+Color
+
+Transparency
+
+Font Size
+
+Text Edge Style
+
+Font Family
+
+Resetrestore all settings to the default valuesDone
+Close Modal Dialog
+
+End of dialog window.
+
+Curso Profesional de Git y GitHub
+
+
+    Curso Profesional de Git y GitHub
+
+<https://platzi.com/cursos/git-github/>Freddy Vega
+
+Freddy Vega
+
+Introducción a la terminal y línea de comandos
+
+Analizar cambios en los archivos de tu proyecto con Git
+
+Analizar cambios en los archivos de tu proyecto con Git
+
+
+  Crea un repositorio de Git y haz tu primer commit
+
+8/43
+
+Reportar un problema
+
+Recursos
+Marcadores
+
+Le indicaremos a Git que queremos crear un nuevo repositorio para
+utilizar su sistema de control de versiones. Solo debemos posicionarnos
+en la carpeta raíz de nuestro proyecto y ejecutar el comando:
+
+|git init
+
+|
+
+Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a
+tener una nueva carpeta oculta llamada |.git| con toda la base de datos
+con cambios atómicos en nuestro proyecto.
+
+Recuerda que Git está optimizado para trabajar en equipo, por lo tanto,
+debemos darle un poco de información sobre nosotros. No debemos hacerlo
+todas las veces que ejecutamos un comando, basta con ejecutar solo una
+sola vez los siguientes comandos con tu información:
+
+|git config --global user.email "tu@email.com"
+git config --global user.name "Tu Nombre"
+
+|
+
+Existen muchas otras configuraciones de Git que puedes encontrar
+ejecutando el comando |git config --list| (o solo |git config| para ver
+una explicación más detallada).
+
+Si quieres ver los archivos ocultos de una carpeta puedes habilitar la
+opción de |Vista > Mostrar u ocultar > Elementos ocultos| (en Windows) o
+ejecutar el comando |ls -a|.
+
+
+    Comandos para iniciar tu repositorio con Git
+
+  * git init: para inicializar el repositorio git y el staged
+  * git add nombre_del_archivo.txt: enviar el archivo al staged
+  * git status: ver el estado, si se requiere agregar al starget o si se
+    requiere commit
+  * git conf: para ver las posibles configuraciones
+  * git conf --list: para ver la lista de configuraciones hechas
+  * git conf --list --show-origin: para mostrar las configuraciones y
+    sus rutas
+  * git rm --cached nombre_del_archivo.txt: para eliminar el archivo del
+    staged(ram)
+  * git rm nombre_del_archivo.txt: para eliminar del repositorio
+
+Si por algún motivo te equivocaste en el nombre o email que configuraste
+al principio, lo puedes modificar de la siguiente manera:
+|git config --global --replace-all user.name “Aquí va tu nombre modificado”|
+O si lo deseas eliminar y añadir uno nuevo
+|git config --global --unset-all user.name :Elimina el nombre del usuario|
+|git config --global --add user.name “Aquí va tu nombre”|
+
+Aporte creado por: Brand Huatarongo
+
+
+        Archivos de la clase
+
+/
+
+Descargar todo
+
+<https://github.com/freddier/hyperblog/archive/9748f6531ec74adead2b2a4a03a55b7f6e379059.zip>
+
+historia.txt
+
+Descargar archivo
+ <https://static.platzi.com/media/tmp/class-files/github/hyperblog/hyperblog-9748f6531ec74adead2b2a4a03a55b7f6e379059/historia.txt>
+
+
+        Lecturas recomendadas
+
+Cambios en GitHub: de master a main
+
+https://platzi.com/blog/cambios-en-github-master-main/
+
+<https://platzi.com/blog/cambios-en-github-master-main/>
+Tu avatar
+
+Escribe tu aporte o pregunta
+
+Aportes 1068
+
+Preguntas 422
+
+Ordenar por:
+más votados
+
+nuevos
+
+sin responder
+
+Juan Luis Rojas León
+
+Juan Luis Rojas León
+
+hace 3 años <https://platzi.com/comentario/592511/>
+901
+
+¿No te funciona el comando /|code|/ en tu terminal?
+
+  * Abre Visual Studio Code
+  * Presiona /|cmd + shift + p|/ ó si estás en windows /|ctrl + shift + p|/
+  * Busca una opción que diga lo siguiente: /|Shell Command: Install
+    'code' command in $PATH|/
+  * Selecciónala
+
+Y listo, podrás utilizar dicho comando.
+
+Responder
+Luis Antonio Schmiel Paredes
+
+Luis Antonio Schmiel Paredes
+
+hace 3 años <https://platzi.com/comentario/592511/>
+29
+
+Eres un héroe sin capa! que buen dato gracias
+
+raimundohg
+
+raimundohg
+
+hace 3 años <https://platzi.com/comentario/592511/>
+13
+
+Hola! y en atom como sería?
+
+22 Respuestas <https://platzi.com/comentario/592511/>
+Andrés Gutierrez
+
+Andrés Gutierrez
+
+hace 3 años <https://platzi.com/comentario/621385/>
+724
+
+comandos de git aprendidos en esta clase:
+
+  *
+
+    *git init:* lo usamos para determinar la carpeta en la que vamos a
+    trabajar.
+
+  *
+
+    *git status:* lo usamos para saber si tenemos un archivo añadido o
+    borrado en nuestro proyecto, para saber en la rama en la que estamos
+    y si tenemos commits.
+
+  *
+
+    *git add:* es para añadir un archivo a nuestra rama seguidamente
+    ponemos entre comillas el nombre de nuestro archivo o poner un punto
+    para añadir todos los archios de nuestra carpeta.
+
+  *
+
+    *git rm:* lo usamos para borrar un archivo que hayamos añadido, para
+    eliminarlo por completo de nuestra rama usamos*git rm --cached*.
+
+  *
+
+    *git commit:* se usa para añadir un commit a nuestra rama, también
+    podemos ponerle un *-m* seguidamente ponemos entre comillas nuestro
+    ensaje.
+
+  *
+
+    *git config:* muestra configuraciones de git también podemos usar
+    *–list* para mostrar la configuración por defecto de nuestro git y
+    si añadimos --show-origin /inhales/ nos muestra las configuraciones
+    guardadas y su ubicación.
+
+  *
+
+    *git config --global user.name <http://user.name/>:* cambia de
+    manera global el nombre del usuario, seguidamente ponemos entre
+    comillas nuestro nombre.
+
+  *
+
+    *git config --global user.email:* cambia de manera global el email
+    del usuario, seguidamente ponemos entre comillas nuestro nombre.
+
+  *
+
+    *git log:* se usa para ver la historia de nuestros archivos, los
+    commits, el usuario que lo cambió, cuando se realizaron los cambios
+    etc. seguidamente ponemos el nombre de nuestro archivo.
+
+/inhales again/
+
+uuuuuuffff si que me costó escribir esto
+
+Ver más
+Responder
+andresanni
+
+andresanni
+
+hace 3 años <https://platzi.com/comentario/621385/>
+7
+
+gracias
+
+nca1478
+
+nca1478
+
+hace 3 años <https://platzi.com/comentario/621385/>
+5
+
+Gracias amigo, muy útil para ir recopilando una guía de consulta con
+todos los comandos.
+
+10 Respuestas <https://platzi.com/comentario/621385/>
+Jesús Joel Sarabia Félix
+
+Jesús Joel Sarabia Félix
+
+hace 2 años <https://platzi.com/comentario/1374533/>
+451
+
+Espero les sea de ayuda! 😄
+Crea unu repositorio en Git y haz tu primer commit (1).png
+
+Responder
+Fabricio Moreno
+
+Fabricio Moreno
+
+hace 2 años <https://platzi.com/comentario/1374533/>
+8
+
+Seguire todas tus infografias de cerca, estan geniales!!!
+
+Marco Aurelio López Márquez
+
+Marco Aurelio López Márquez
+
+hace 2 años <https://platzi.com/comentario/1374533/>
+4
+
+woow, increible
+
+10 Respuestas <https://platzi.com/comentario/1374533/>
+Jose Luis Mendoza Mogollón
+
+Jose Luis Mendoza Mogollón
+
+hace 2 años <https://platzi.com/comentario/1324542/>
+233
+
+Resumen.png
+
+Responder
+Pablo Perez Lee
+
+Pablo Perez Lee
+
+hace 2 años <https://platzi.com/comentario/1324542/>
+3
+
+Muchas gracias por el aporte.
+
+Elton Sedano Ticllasuca
+
+Elton Sedano Ticllasuca
+
+hace 2 años <https://platzi.com/comentario/1324542/>
+3
+
+Genial !
+
+9 Respuestas <https://platzi.com/comentario/1324542/>
+Luis Angel José Portillo Arévalo
+
+Luis Angel José Portillo Arévalo
+
+hace 3 años <https://platzi.com/comentario/809874/>
+118
+
+Freddy: La carpeta proyecto1
+
+Yo: no lo digas, no lo digas
+
+Yo:
+
+Responder
+Augusto Jose Suarez Flores
+
+Augusto Jose Suarez Flores
+
+hace 2 años <https://platzi.com/comentario/809874/>
+6
+
+creí que era el único que repetía esto una y otra vez en la clase
+
+HeyItsMe
+
+HeyItsMe
+
+hace 2 años <https://platzi.com/comentario/809874/>
+38
+
+1.png
+
+11 Respuestas <https://platzi.com/comentario/809874/>
+irvingsan
+
+irvingsan
+
+hace 3 años <https://platzi.com/comentario/592552/>
+90
+
+DATO
+
+Ese numero largo (40 caracteres) se llama SHA (Secure Hash Algorithm,
+Algoritmo de Hash Seguro) y es un ID unico que se crea para cada commit.
+
+Responder
+Luis Fernando Redondo Duron
+
+Luis Fernando Redondo Duron
+
+hace 2 años <https://platzi.com/comentario/592552/>
+2
+
+Gracias. Lo he utilizado mucho para autenticación y muchas otras cosas y
+nunca supe para que servía o que significaba.
+
+Juan Andres Garzon Garay
+
+Juan Andres Garzon Garay
+
+hace 2 años <https://platzi.com/comentario/1019223/>
+59
+
+Clase 10.png
+
+Responder
+Heider Rey Hernandez Arpushana
+
+Heider Rey Hernandez Arpushana
+
+hace 9 meses <https://platzi.com/comentario/1019223/>
+1
+
+Muchas gracias unos apuntes muy completo.
+
+OSCAR IVAN CHAMUCERO G.
+
+OSCAR IVAN CHAMUCERO G.
+
+hace 7 meses <https://platzi.com/comentario/1019223/>
+1
+
+Gracias por tus notas, las he visto en otros cursos y brutales, me
+permiten enfocarme mas en el curso que en las notas iii en que programa
+l ohaces_
+
+6 Respuestas <https://platzi.com/comentario/1019223/>
+Luis Salas
+
+Luis Salas
+
+hace 2 años <https://platzi.com/comentario/1100409/>
+51
+
+Quizás no sea muy estético XD, pero es un breve resumen de algunos de
+los comandos utilizados hasta el momento.
+Screenshot commands.png
+
+Responder
+Gabriel VB
+
+Gabriel VB
+
+hace 2 años <https://platzi.com/comentario/1100409/>
+2
+
+Genial
+
+Carlos Andrés Linares Ramos
+
+Carlos Andrés Linares Ramos
+
+hace 2 años <https://platzi.com/comentario/1100409/>
+2
+
+Gran aporte
+
+4 Respuestas <https://platzi.com/comentario/1100409/>
+devdanielgo
+
+devdanielgo
+
+hace 3 años <https://platzi.com/comentario/625090/>
+47
+
+Responder
+Alfonso Morán
+
+Alfonso Morán
+
+hace un año <https://platzi.com/comentario/625090/>
+3
+
+Vine a los comentario a buscar esto
+
+ricardocelis
+
+ricardocelis
+
+Profe Platzihace 3 años <https://platzi.com/comentario/591906/>
+34
+
+Primera versión de historia.txt aquí:
+https://github.com/freddier/hyperblog/tree/ab1f35ead47ab653bf2b680333cffee4409d48bb <https://github.com/freddier/hyperblog/tree/ab1f35ead47ab653bf2b680333cffee4409d48bb>
+
+Segunda versión aquí:
+https://github.com/freddier/hyperblog/tree/9748f6531ec74adead2b2a4a03a55b7f6e379059 <https://github.com/freddier/hyperblog/tree/9748f6531ec74adead2b2a4a03a55b7f6e379059>
+
+Responder
+hidalgolopezdaniel
+
+hidalgolopezdaniel
+
+hace 2 años <https://platzi.com/comentario/1226595/>
+32
+
+Buena frase: *“La Gente que NO sabe GIT es porque no sabe que hacer ante
+los Errores”*
+
+Responder
+Johan Mosquera
+
+Johan Mosquera
+
+hace 3 años <https://platzi.com/comentario/715089/>
+25
+
+Aquí un pequeño resumen de los comandos usados frecuentemente en *Git*
+
+Comandos en Git (La guía completa)
+<https://github.com/jocode/Getting-Started/blob/master/git_cmd.md>
+
+Responder
+Jhon Paul Montoya Rodriguez
+
+Jhon Paul Montoya Rodriguez
+
+hace 3 años <https://platzi.com/comentario/737575/>
+22
+
+dure media hora, pero lo logre ❤🤘.
+Cuando le das el comando
+$git config --list
+Git te pide… no se que te pide sale toda la configuracion y solicita
+algun comando, supongo, le das Q + : para que te saque y te deje seguir
+escribiendo comandos.
+Advertencia, no se si sea configuracion mia o qué, estoy haciendo el
+curso paso a paso con windows. Si te estancas, dale lo anterior y sigue xd
+
+Responder
+alan-saldivar
+
+alan-saldivar
+
+hace 3 años <https://platzi.com/comentario/836091/>
+20
+
+Cambios atómicos.
+
+Responder
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+hace 3 años <https://platzi.com/comentario/836091/>
+1
+
+jajaja esta imagen la recordaba cada vez que lo decía !!!
+
+Daniel Rodrìguez Miranda
+
+Daniel Rodrìguez Miranda
+
+hace 2 años <https://platzi.com/comentario/974947/>
+19
+
+• pwd: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
+• mkdir: Nos permite crear carpetas (por ejemplo, mkdir Carpeta-Importante).
+• touch: Nos permite crear archivos (por ejemplo, touch archivo.txt).
+• rm: Nos permite borrar un archivo o carpeta (por ejemplo, rm archivo.txt).
+Mucho cuidado con este comando, puedes borrar todo tu disco duro.
+• cat: Ver el contenido de un archivo (por ejemplo, cat nombre-archivo.txt).
+• ls: Nos permite cambiar ver los archivos de la carpeta donde estamos
+ahora mismo.
+Podemos usar uno o más argumentos para ver más información sobre estos
+archivos (los argumentos pueden ser – + el nombre del argumento o - +
+una sola letra o shortcut por cada argumento).
+
+-ls -a: Mostrar todos los archivos, incluso los ocultos.
+
+-ls -l: Ver todos los archivos como una lista.
+cd: Nos permite navegar entre carpetas.
+
+- cd /: Ir a la ruta principal:
+
+- cd o cd ~: Ir a la ruta de tu usuario
+
+- cd carpeta/subcarpeta: Navegar a una ruta dentro de la carpeta donde
+estamos ahora mismo.
+
+- cd … (cd + dos puntos): Regresar una carpeta hacia atrás.
+
+  * git init: Se crea staging en memoria ram y en el repositorio en HDD
+  * git add: trakea cambios en el staging
+  * commit: cambios en el repositorio
+  * checkout: atrae cambios de alguna rama
+  * git config --global user.email "tu@email.com <mailto:%22tu@email.com>"
+  * git config --global user.name <http://user.name/> “Tu Nombre”
+
+Ver más
+Responder
+Efraín Hernández García
+
+Efraín Hernández García
+
+hace 3 años <https://platzi.com/comentario/908140/>
+18
+
+Mi resumen de esta clase:
+
+|$ git init  //Inicia Git dentro de la carpeta raíz de nuestro proyecto
+$ git config // ver la configuración actual de git
+$ git config --global  user.email "tu@email.com" //Configurar tu email
+$ git --global user.name "Tu Nombre" //Configura tu nombre de usuario
+$ git code // Abre Vscode en Windows
+$ git status //Muestra el estado acual de la base de datos 
+$ git add _myfile.txt _//Agrega el archivo en Staging
+$ git add .// Sube todo los archivos de la carpeta actual
+$ git rm -- cached _myfile.txt_  // Elimina el archivo de la RAM sin eliminarlo de la carpeta
+$ git commit -m "Primer commit de este archivo" //Sube el archivo al repositorio
+$ git log _my file.txt_ //Puede ver todas las modificaciones del archivo asi como ver quien las hizo
+
+|
+
+Ver más
+Responder
+Juan Pablo Rodríguez Morales
+
+Juan Pablo Rodríguez Morales
+
+hace 3 años <https://platzi.com/comentario/908140/>
+5
+
+Una pequeña corrección: no es git code, no es un comando propio de git,
+es solo code /destino/, donde destino es la carpeta o archivo que se
+quiere abrir
+
+David Perez
+
+David Perez
+
+hace 3 años <https://platzi.com/comentario/655012/>
+16
+
+Si quieren crear una carpeta y al mismo tiempo inicializar un
+repositorio lo hacen con el comando
+
+|$ git init nombreCarpeta
+
+|
+
+Responder
+Brayam Teófilo Jiménez
+
+Brayam Teófilo Jiménez
+
+hace 3 años <https://platzi.com/comentario/655012/>
+1
+
+y cuando se trata de una carpeta con espacios?
+cree una carpeta con espacios y no la pude agregar.
+
+David Perez
+
+David Perez
+
+hace 3 años <https://platzi.com/comentario/655012/>
+5
+
+Para crear una carpeta con espacios desde la consola ejecutas el
+siguiente comando
+
+|mkdir "nombre de la carpeta con espacios"
+
+|
+
+Y si quieres crear una carpeta con repositorio ejecutas el siguiente comando
+
+|git init "Nombre de la carpeta con espacios"
+
+|
+
+Ver más <https://platzi.com/comentario/655012/>
+Jhon Carlos Colorado Angulo
+
+Jhon Carlos Colorado Angulo
+
+hace 3 años <https://platzi.com/comentario/595307/>
+15
+
+Cuando instala por primera vez git debes hacer una configuración básica
+y éstas son las siguientes:
+
+ 1.
+
+    git config --global user.name <http://user.name/> “Aquí va tu nombre”
+
+ 2.
+
+    git config --global user.email “Aquí tu correo electrónico”
+
+ 3.
+
+    git config --global color.ui true Sirve para colorear la mayor parte
+    de los resultados como por ejemplo git log.
+
+ 4.
+
+    git config --list
+
+Ahora si por algún motivo te equivocaste en el nombre o email lo puedes
+modificar de la siguiente manera:
+
+git config --global --replace-all user.name <http://user.name/> “Aquí va
+tu nombre modificado”
+
+O si lo deseas eliminar y añadir uno nuevo
+git config --global --unset-all user.name <http://user.name/> :Elimina
+el nombre del usuario
+git config --global --add user.name <http://user.name/> “Aquí va tu nombre”
+
+Ver más
+Responder
+John Steven Bernal Gonzalez
+
+John Steven Bernal Gonzalez
+
+hace 3 años <https://platzi.com/comentario/595307/>
+1
+
+buen resumen!
+
+Brand Huatarongo Huaman
+
+Brand Huatarongo Huaman
+
+hace 3 años <https://platzi.com/comentario/603090/>
+12
+
+git init -->Para inicializar el repositorio git y el staged
+git add nombre_del_archivo.txt → Enviar el archivo al staged
+git status -->ver el stado, si se requiere agregar al starget o si se
+requiere commit
+git conf -->para ver las posibles configuraciones
+git conf --list -->para ver la lista de configuraciones hechas
+git conf --list --show-origin -->para mostrar las configuraciones y sus
+rutas
+
+Cuando instala por primera vez git debes hacer una configuración básica
+y éstas son las siguientes:
+git config --global user.name <http://user.name/> “Aquí va tu nombre”
+git config --global user.email “Aquí tu correo electrónico”
+git config --global color.ui true Sirve para colorear la mayor parte de
+los resultados como por ejemplo git log.
+git config --list
+Ahora si por algún motivo te equivocaste en el nombre o email lo puedes
+modificar de la siguiente manera:
+git config --global --replace-all user.name <http://user.name/> “Aquí va
+tu nombre modificado”
+O si lo deseas eliminar y añadir uno nuevo
+git config --global --unset-all user.name <http://user.name/> :Elimina
+el nombre del usuario
+git config --global --add user.name <http://user.name/> “Aquí va tu nombre”
+
+git rm --cached nombre_del_archivo.txt → para eliminar el archivo del
+staged(ram)
+git rm nombre_del_archivo.txt → para eliminar del rep
+
+Ver más
+Responder
+Francisco Javier Antúnez Durán
+
+Francisco Javier Antúnez Durán
+
+hace 3 años <https://platzi.com/comentario/889370/>
+12
+
+Para quienes usan Max o linux “ls -la” tiene una version resumida
+utilizando “ll” (ele, ele) (>‿◠))
+
+Responder
+MGuedez
+
+MGuedez
+
+hace 2 años <https://platzi.com/comentario/1763516/>
+11
+
+Hola les dejo mis apuntes de la clase.
+Flujo de trabajo de Git en nuestro repositorio local.
+Flujo de git local.png
+
+Responder
+Josue Noha Valdivia
+
+Josue Noha Valdivia
+
+hace 2 años <https://platzi.com/comentario/1333127/>
+11
+
+Comandos git:
+*git init*: crea repositorio en carpeta actual: .git/
+*git status*: ver estado del proyecto
+*git add* <nombrearchivo> envia archivo a staging (nota: usando . puedes
+mandar toda la carpeta a staging)
+*git rm --cached <nombrearchivo>* remueve el archivo de staging
+*git commit -m <mensaje*>: envia el staging a repositorio con el mensaje
+*git config*: configuraciones de git
+*– list:* lista configuraciones basicas de git
+*–show-origin* : ubicacion de las configuraciones
+*– global user.name <http://user.name/> <nombre>* cambiar nombre del usuario
+*– global user.email <email>* cambiar email del usuario
+*git log <nombre archivo>*: historial de commits del archivo
+
+Nota
+
+  * para letras de acceso rapido a un comando
+    – para palabras comando
+
+Ver más
+Responder
+Santos Romero
+
+Santos Romero
+
+hace 3 años <https://platzi.com/comentario/853371/>
+10
+
+*$git init:* inicializa el repositorio
+*$ls -al:* lista los archivos ocultos creados después de inicializar
+repositorio
+*$git status:* verificar el estado del repositorio(ver si hay cambios o no)
+*$git add file.txt:* agrega el archivo a staging(RAM)
+*Nota:*/para sacar el file.txt de RAM, ejecutar **$git rm --cached
+file.txt/ rm(remover), indica remover de RAM, pero no eliminar archivo
+
+*$git config:* muestra todas las configuraciones que tiene git.
+
+Para conocer qué usuario hizo commits
+*$git config --global user.name <http://user.name/> “John Doe”*
+*$git config --global user.email "john.doe@platzi.com
+<mailto:%22john.doe@platzi.com>"*
+**$git log file.txt:**historia de los commits hechos
+
+*Tip:* /Es buena práctica dejar un mensaje a cada commit que se envía./
+
+/La práctica y el compartir conocimiento te convertirá en un profesional
+destacado/
+/*Latam para el mundo*/
+
+Ver más
+Responder
+Daniel Felipe Merchan Fuquen
+
+Daniel Felipe Merchan Fuquen
+
+hace 3 años <https://platzi.com/comentario/610198/>
+10
+
+Aquí les dejo mis apuntes:
+Crea un repositorio de Git y haz tu primer commit.JPG
+
+Responder
+Ederson Felipe Lopez Bolivar
+
+Ederson Felipe Lopez Bolivar
+
+hace 2 años <https://platzi.com/comentario/1999016/>
+10
+
+primer commit.PNG
+
+Responder
+Xiomara Elizabeth Gutierrez Henrriquez
+
+Xiomara Elizabeth Gutierrez Henrriquez
+
+hace 2 años <https://platzi.com/comentario/1999016/>
+1
+
+Muchas gracias por tu aporte!
+
+Obed Tzay
+
+Obed Tzay
+
+hace 2 años <https://platzi.com/comentario/1529228/>
+9
+
+git anotation3.png
+
+Responder
+Andrés Antonio Azuara Portillo
+
+Andrés Antonio Azuara Portillo
+
+hace 3 años <https://platzi.com/comentario/624033/>
+9
+
+Solamente les comento que en el comando git log existe el siguiente
+argumento:
+
+|git log --oneline
+
+|
+
+el cual mostrará la información más resumida, con cada commit en una
+sola línea
+
+Responder
+carlos_fullstack
+
+carlos_fullstack
+
+hace 3 años <https://platzi.com/comentario/624033/>
+1
+
+es la vieja confiable
+
+Jorge Leonardo Rincon Botache
+
+Jorge Leonardo Rincon Botache
+
+hace 2 años <https://platzi.com/comentario/2010365/>
+8
+
+Screenshot_2.png
+
+Por Buena practica ahora no se usa la rama (master) en cambio se usa la
+rama (main) en la documentación habla de que al momento de crear el
+repositorio desde la carpeta y en la linea de comando se pone :
+git branch -M main
+or
+git branch -M master main
+pero a mi no me permitió hacerlo así, asi que si alguien presenta el
+mismo problema, que hice yo…
+me fui a la carpeta oculta de .git ==> al archivo HEAD lo abri con block
+de notas y cambie la palabra master por main así queda:
+Screenshot_3.png
+
+le das atrás (cd …) y luego entras de nuevo a la carpeta del repo y ya
+veras los cambios de la palabra master por main
+
+Ver más
+Responder
+Daniel Valderrama Mendoza
+
+Daniel Valderrama Mendoza
+
+hace 2 años <https://platzi.com/comentario/940334/>
+8
+
+para los que quieran poner atom desdes el terminal 😄
+https://vortexbird.com/configuracion-para-abrir-atom-desde-la-consola-o-terminal-en-osx/ <https://vortexbird.com/configuracion-para-abrir-atom-desde-la-consola-o-terminal-en-osx/>
+
+Responder
+Julián Flor
+
+Julián Flor
+
+hace 2 años <https://platzi.com/comentario/1192942/>
+7
+
+Yo… *no tengo ni idea de que esta pasando* 😃
+
+Responder
+Julián Flor
+
+Julián Flor
+
+hace 2 años <https://platzi.com/comentario/1192942/>
+5
+
+He vuelto para animar a todo aquel, que como yo, estan perdidos: *No se
+rindan*
+Van a entenderlo y van a disfrutar el aprendizaje. Tambien se daran
+cuenta que es super potente estas herramientas. Un saludo 😂
+
+Christian Quispe Bonilla
+
+Christian Quispe Bonilla
+
+hace 2 años <https://platzi.com/comentario/965183/>
+7
+
+Comandos usados y aprendidos
+
+|   54  pwd
+   55  git init
+   56  code
+   57  git status
+   58  git add historia.txt
+   59  git status
+   60  git rm historia.txt
+   61  git status
+   62  git rm --cached historia.txt
+   63  git status
+   64  git add historia.txt
+   65  git status
+   66  git status
+   67  git config --list
+   68  git --list --show-origin
+   69  git config --global user.name "Xtian"
+   70  git config --global user.email "XtianCarlosQ@gmail.com"
+   71  git --list
+   72  git config
+   73  git config list
+   74  git config --list
+   75  git commit -m "Este es mi primera versión de mi historia"
+   76  git status
+   77  code historia.txt
+   78  git status
+   79  git add historia.txt
+   80  git status
+   81  git commit -m "agregando edad y gustos"
+   82  git status
+   83  git log historia.txt
+   84  history
+
+|
+
+Ver más
+Responder
+Mauricio Moreno Morales
+
+Mauricio Moreno Morales
+
+hace 2 años <https://platzi.com/comentario/1458912/>
+7
+
+*git init*: activa git
+*ls- al*: Muestra los archivos ocultos
+*code*: abrir visual studio code
+*git status*: muestra el estado del proyecto
+*git add*: manda el archivo a memoria
+*git rm*: elimina el archivo
+*git --cached*: elimina de memoria el archivo(quita el add)
+*git commit -m “mensaje”:* Envia los cambios a repositorio
+*git config*: configurar git
+*git config --list*:muestra la configuración
+*git config --list --origin:* muestra donde esta guardada la configuración
+*git config --global --user.name:* introduce nombre de usuario
+*git config --global --user.email:* introduce el correo
+*git log <archivo>*: muestra el historial de cambios
+
+Ver más
+Responder
+Sebastián Melo
+
+Sebastián Melo
+
+hace 3 años <https://platzi.com/comentario/873228/>
+7
+
+Comparto para repasar un poco los comandos.
+https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Terminal <https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Terminal>
+
+Responder
+Cesar Andres Urrea Gutierrez
+
+Cesar Andres Urrea Gutierrez
+
+hace 3 años <https://platzi.com/comentario/873228/>
+2
+
+¡Muchas gracias por el aporte!
+
+Manuel Armando Peche Cruz
+
+Manuel Armando Peche Cruz
+
+hace 3 años <https://platzi.com/comentario/873228/>
+2
+
+Muy buen dato Gracias
+
+Manuel Oviedo
+
+Manuel Oviedo
+
+hace 2 años <https://platzi.com/comentario/2146566/>
+6
+
+Hola hice un paso a paso de clase
+
+ 1. Creamos una carpeta llamada proyecto1
+ 2. Le damos el comando git init
+ 3. Le damos el comando ls -al y podemos ver las carpetas vacías y
+    comprobar que efectivamente tenemos la de git
+ 4. Abrimos visual studio code y guardamos un archivo de texto y lo
+    guardamos en la carpeta,
+ 5. Le damos git status y ahi vemos cuales son los archivos que aún no
+    se han trackeado
+ 6. Luego la damos git add para empezar a trackearlo
+ 7. Lo sacamos dandole git rm —cached
+
+** Nota
+Cached - Significa que esta en memoria RAM - no en GIT
+
+ 1. Le damos Commit y enviamos al repositorio
+ 2. Configuramos quien somos nosotros para poder determinar quien hizo que
+ 3. Le damos el siguiente comando Git config - para mostrar la configuración
+
+** Nota
+
+Git Config - nos da los comandos principales de GIT
+
+ 1. Le damos el comando GIT config - - list para poder ver la
+    configuración por defecto de nuestro Git - esto para ver el nombre y
+    correo del usuario
+ 2. Le damos el comando GIT config - - list - - origin y ahi sabemos
+    donde están guardadas las configuraciones - casos más avanzados
+ 3. Le damos GIT consigo - - global eso lo usamos para cambiar todos los
+    usuarios global
+ 4. Para cambiar el nombre en la configuración y el email le damos el
+    siguiente comando:
+ 5. Cambiamos el archivo historia.txt - eso lo podemos hacer con el
+    comando CODE
+ 6. Usamos el comando CAT historia.txt - para ver el contenido del
+    archivo - pero no puedo modificarlo
+ 7. Hacemos los cambios y guardamos - ahora cuando hacemos git status el
+    reconoce que se modifico el archivo
+ 8. Hacemos un nuevo commit - PERO NO PASA NADA! SIEMPRE LOS CAMBIOS
+    DEBEMOS AGREGARLOS CON EL BOTON DE ADD
+ 9. Hacemos el comando ADD . -> El punto al final lo que hace es que
+    agregamos todos los archivos de una vez
+10. Ahora si podemos entrar a hacer el commit
+11. Para ver toda la historia le damos git log historia.txt
+
+Ver más
+Responder
+Fernando Huamán Santamaria
+
+Fernando Huamán Santamaria
+
+hace 2 años <https://platzi.com/comentario/1201422/>
+6
+
+
+    *RESUMEN*
+
+------------------------------------------------------------------------
+
+ 1. Cuando estamos en la carpeta o directorio principal de nuestros
+    archivos podemos ejecutar el comando:
+
+|git init
+
+|
+
+ 1. Si queremos abrir *Visual Studio Code* desde el terminal *Git Bash*
+    podemos ejecutar el comando:
+
+|code
+
+|
+
+ 1. Si quermos ver si hay algun archivo que se tenga que añadir o nos
+    muestre que se a modificado un archivo etc. podemos ejecutar el comando:
+
+|git status
+
+|
+
+ 1. Si queremos que nuestro archivo viva temporalmente en la *memoria
+    RAM* podemos ejecutar el comando:
+
+|git add <nombre_archivo>
+
+|
+
+ 1. Si queremos mandarlo a nuestro repositorio enviando un mensaje,
+    ejecutamos
+
+|git commit -m "Mensaje"
+
+|
+
+ 1. Cuandi un archivo esta viviendo en la *RAM* y queremos retirarlo,
+    ejecutamos el comando:
+
+|git rm --cached <nombre_archivo>
+
+|
+
+Ver más
+Responder
+Oscar Enrique Ruiz Herrera
+
+Oscar Enrique Ruiz Herrera
+
+hace 3 años <https://platzi.com/comentario/645882/>
+6
+
+Para abrir un proyecto en sublime text desde la terminal, solo hay que
+ir desde la terminal a la carpeta que queremos abrir en sublime y
+escribir “subl .” (sin las comillas) y se abrirá sublime text con el
+proyecto
+subl.png
+
+Responder
+Kurt Otero
+
+Kurt Otero
+
+hace 2 años <https://platzi.com/comentario/1262639/>
+6
+
+git init: para crear el repositorio vacio de git
+code: para abir visual studio
+git status: para ver el estado de repositorio
+git add: ppara saber que hay cambios que tienen que ser enviados
+git rm: para borrar
+git rm --cached: para borrarlo de la memoria ram
+git commit: envia los cambios al repositorio
+git commit -m " ": mensaje
+git config: todas las opciones que tienen git
+git config --list: configuacion por defecto de tu git
+git config --list --show-origin: donde estan las configuraciones guardadas
+-: para letras
+–: para palabras
+git config --global user.name <http://user.name/> " ": para cambiar el
+nombre
+git config --global user.email " ": para cambiar el email
+git add .: para agregar a la carpeta actual
+git log: para ver todo lo que se ha hecho en el archivo
+
+Ver más
+Responder
+Miguel Angel Velazquez Romero
+
+Miguel Angel Velazquez Romero
+
+hace 2 años <https://platzi.com/comentario/1224016/>
+6
+
+|git add . (Agrega archivo a cache)
+git rm --cached (Borra cambio de la cache)
+git add .
+git commit -m “Comentario” (Guarda Cambios despues de un git add .)
+git status (revisa el estado del archivo)
+Comandos para identificarte: 
+git config --global user.email "tu@email.com"
+git config --global user.name "Tu Nombre" 
+git log (Para ver el historial de cambios)
+
+|
+
+Ver más
+Responder
+JESUS ALMIRCAR CASTELLANOS
+
+JESUS ALMIRCAR CASTELLANOS
+
+hace 3 años <https://platzi.com/comentario/680351/>
+6
+
+------------------------------------------------------------------------
+
+**Iniciar Git**
+
+------------------------------------------------------------------------
+
+git int
+
+------------------------------------------------------------------------
+
+**Iniciar Git**
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***/Configuración de Git/***
+
+------------------------------------------------------------------------
+
+git config
+git config --list
+git config --list --show origin
+git config --list --show-origin
+git config --global
+git config --global user.name <http://user.name/> “SC"
+git config --global user.email "jesuscastellanospaez@hotmail.com
+<mailto:%22jesuscastellanospaez@hotmail.com>”
+
+------------------------------------------------------------------------
+
+***/Configuración de Git/***
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***Agragar a la zona de preparación***
+
+------------------------------------------------------------------------
+
+git add Archivo.txt
+
+git add .
+
+------------------------------------------------------------------------
+
+***Agragar a la zona de preparación***
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+****/Ver estado/****
+
+------------------------------------------------------------------------
+
+git status
+
+------------------------------------------------------------------------
+
+****/Ver estado/****
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+********/Quitar de la zona de preparación/*****************
+
+------------------------------------------------------------------------
+
+git rm --cached archivo.txt (Quitar de la zona de preparación).
+
+------------------------------------------------------------------------
+
+********/Quitar de la zona de preparación/*****************
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***********Realizar commint***********
+
+------------------------------------------------------------------------
+
+git commit -m “Este es el pimer commit de este archivo”
+
+------------------------------------------------------------------------
+
+***********Realizar commint***********
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***/Ver el historial de cambios del archivo/***
+
+------------------------------------------------------------------------
+
+git log
+git log Archivo.txt
+
+------------------------------------------------------------------------
+
+***/Ver el historial de cambios del archivo/***
+
+------------------------------------------------------------------------
+
+git show
+
+Ver más
+Responder
+Andres Julian GIRALDO BAHAMON
+
+Andres Julian GIRALDO BAHAMON
+
+hace 2 años <https://platzi.com/comentario/1079117/>
+6
+
+vamos yo puedo yo puedo , no me voy a rendir … ufff
+
+Responder
+Betty Rossana Jimenez Cedeño
+
+Betty Rossana Jimenez Cedeño
+
+hace 3 años <https://platzi.com/comentario/751594/>
+6
+
+En git el uso de (-)
+–: palabra
+-: un comado.
+
+Responder
+Jeaneth Tafur Huaman
+
+Jeaneth Tafur Huaman
+
+hace 4 meses <https://platzi.com/comentario/3474273/>
+5
+
+
+      Haciendo commit
+
+------------------------------------------------------------------------
+
+  * Nos situamos en la carpeta del proyecto |nuevo|
+  * Comando |git init| para iniciar un repositorio que guardara el
+    historial de cambios del proyecto.
+  * Automáticamente se crea una capeta oculta llamada |.git|
+  * Creamos los archivos |archivo.txt|
+  * Comando |git status| para ver los cambios que faltan agregar al
+    repositorio
+  * Comando |git add <archivo.txt>| para agregar un archivo en
+    especifico al stedsh
+  * Comando |git add .| para agregar todos los archivos disponibles al
+    stedsh
+  * Comando |git rm --cached archivo.txt| retira el archivo agregado del
+    stedsh
+  * Comando |git commit -m "Este es un mensaje"| para confirmar que
+    agregue los cambios al repositorio y va acompañado de un mensaje
+    (Colocar un mensaje es una buena practica para tener un seguimiento
+    de los cambios que se han realizado)
+
+
+      Configurar GIT
+
+------------------------------------------------------------------------
+
+Es importante configurar los datos para saber quien esta haciendo los
+cambios.
+Si no configuramos los datos nos enviará variables por defecto de windows
+
+  * Comando |git config| nos muestra todas las configuraciones
+    disponible de GIT
+  * Comando |git config --list| muestra la configuración por defecto o
+    información de los datos ya configurados.
+  * Comando |git config --list --show-origin| muestra el lugar (ruta)
+    donde esta guardada la configuración
+  * Comando |git config --global user.name "Tu nombre"| para cambiar el
+    nombre de usuario
+    (–global, se va a cambiar la configuración global de todos los usuarios)
+    – Comando |git config --global user.email "Tu correo"| para
+    configurar el correo del usuario
+
+
+      Haciendo cambios a los archivos
+
+------------------------------------------------------------------------
+
+  * Después de realizar cambios revisamos el status comando |git status|
+    y nos mostrara los archivos modificados
+  * Realizamos un “commit” para agregar los cambios al repositorio
+
+
+      Ver la historia de los archivos
+
+------------------------------------------------------------------------
+
+  * Comando |git log <archivo.txt>| Para ver los cambios
+      o Se muestra el nombre de quien hizo los cambios y cuando fueron
+        hechos
+      o Se muestra|tag| es el código interno para nombrar los cambios
+
+Ver más
+Responder
+Manuel Peñaloza
+
+Manuel Peñaloza
+
+hace 2 años <https://platzi.com/comentario/1919784/>
+5
+
+pasos para agregar la terminal de git en windows a visual Studio code
+
+1.-primero encontrar la ruta de la terminal
+variablep1.PNG
+2.-darle click derecho y darle en propiedades para copiar la dirección
+de git-bash.exe
+variablep2.PNG
+3.-entrar en configuracion de Visual Studio Code (CTRL+,) o desde la
+pestaña file en la parte de preferencias
+paso 1.PNG
+4.-buscar en configuracion: Integrated Automation Shell Windows y entrar
+paso2.PNG
+5.-añadir al archivo json lo sig ( “terminal.integrated.git”: ) y pegar
+la ruta de la terminal de git
+paso3 corregido.PNG
+listo asi de facil puedes abrir la terminal git-bash desde visual studio
+code 😄
+resultado.PNG
+
+Ver más
+Responder
+Dioxo
+
+Dioxo
+
+hace 3 años <https://platzi.com/comentario/604483/>
+5
+
+Algunos desarrolladores creen que porque el hash está compuesto por 40
+caracteres (160 bits) es *posible encontrar 2 commits con el mismo
+hash*. Sobre todo cuando se hacen miles de commits en proyectos tan
+grandes como linux (más de 4M de commits).
+Pero este *riesgo es realmente mínimo*, casi que insignificante. Un
+script a calculado la probabilidad de caer sobre una colisión a lo largo
+de la vida de un repositorio con más de 200 mil millones de commits.
+Esta probabilidad es inferior a /1.3x10e-26/.
+*Es más probable que un meteorito caiga sobre tu cabeza ( /1.96x10e-15/
+) que de encontrar un conflicto en los objetos de Git.*
+En pocas palabras, el riesgo de conflicto es extremadamente
+insignificante que no debería tenerse en consideración.
+
+Ver más
+Responder
+SoyCaballero
+
+SoyCaballero
+
+hace 2 años <https://platzi.com/comentario/1315686/>
+5
+
+Resumen de la clase en términos de los comandos:
+
+|$git init (crea el repositorio)
+$git  status (muestra el estado de la carpeta)
+$git  add _archivo_ (agrega a archivo a Staging)
+git rm --cached _archivo_ (Elimina al archivo de Staging)
+$git commit (guarda los cambios en la base de datos)
+$git add . (agrega a staging todos los archivos de la carpeta)
+$git  log (muestra la historia en cuanto a commits del proyecto)
+$git  log _archivo_ (muestra la historia en cuanto a commits de archivo)
+
+|
+
+En log encontraremos una serie de caractéres extraños, este es el tag
+del commit, su nombre de referencia. El commit que contenga
+(Head->master) será el más reciente.
+
+Espero que les sirva.
+
+Ver más
+Responder
+hmogollan
+
+hmogollan
+
+hace 2 años <https://platzi.com/comentario/1140450/>
+5
+
+Configurar git
+
+Ver configuraciones de git
+
+Git config
+
+Ver configuración por defecto en forma de lista
+
+Git config --list
+
+Creando repositorio
+
+Iniciar repositorio.
+
+Git init
+
+Agregar archivo a estado de staging (estado temporal)
+
+Git add index.html
+
+Agregar todos los archivos
+
+Git add .
+
+Remover o sacar de staging
+
+Git rm index.html
+
+Para borrar
+
+Git rm –cached index.html
+
+Para ver el status del proyecto
+
+Git status
+
+Agregar el archivo al repositorio “-m” para escribir un mensaje
+
+Git commit -m “este es el primer commit”
+
+Trae los cambios a la carpeta
+
+Checkout
+
+Lanzar vs code desde la terminal
+
+Code
+
+Abir un archivo en en vs code
+
+Code index.php
+
+Para ver el contenido de un archivo utilizo
+
+Cat index.html
+
+Para ver la historia de un archivo
+
+Git log index.php
+
+Ver más
+Responder
+Francisco Javier Suarez Verdugo
+
+Francisco Javier Suarez Verdugo
+
+hace 3 años <https://platzi.com/comentario/845105/>
+5
+
+Gracias por el vídeo, Freedy. Continuo aprendiendo cosas nuevas, al
+principio del vídeo cuando explico lo relacionado al commit, Git me
+permitió hacerlo sin ningún problema y después me di cuenta que un
+usuario y correo ya se habían asignado, supongo que esto se debía a la
+configuración que se creo cuando use GitHub de escritorio. Acá dejo una
+imagen:
+
+ImagenGit.PNG
+
+Responder
+Francisco Santopietro
+
+Francisco Santopietro
+
+hace 3 años <https://platzi.com/comentario/845105/>
+1
+
+Me paso exactamente lo mismo. Supongo que GitHub automatiza el registro
+
+juanvalero252
+
+juanvalero252
+
+hace 3 años <https://platzi.com/comentario/918620/>
+5
+
+Saludos Freddy. Me encantan todos tus cursos pero quisiera decir algo en
+particular con respecto a este, yo vi el curso pasado de GiT con
+Leonidas y de verdad fue mi mejor experiencia dentro de Platzi y creo
+que hay varias fallas aqui(con mucho respeto) creo que si queremos
+empezar algun proyecto en git debemos empezar por las bases y creo que
+una de las primeras clases es detallar la importancia del |git config
+--global| y la importancia de este. preparar bien nuestro entorno y
+empezar a trabajar. creo que mas alla de comandos de git como |add| |rm|
+|status| |log| primero deberiamos aprender a crear desde el bash,
+comandos como touch, mkdir y ver un poco mas a detalle… todo lo digo con
+animos de mejorar y por que comparando este curso con el de Leonidas el
+anterior en 10 clases ya te atrapa el curso y no te deja salir… en
+cambio este es como que sabes que estas viendo una buen película pero
+todavía sientes la intriga que no sabes que pasara… espero que puedas
+tomar mi opinión de la mejor forma por que tenia necesidad de decirla
+
+Ver más
+Responder
+Carlos Mario
+
+Carlos Mario
+
+hace 3 años <https://platzi.com/comentario/918620/>
+5
+
+Saludos juan, en el primer vídeo del modulo 2 Freddy explica de manera
+clara y sencilla como configurar el entorno de trabajo de git (git
+config y sus flags), ademas, justo antes del modulo 2 hace una
+introducción a la linea de comandos muy completa.
+
+También tome el curso anterior de Leonidas y la verdad no me gusta como
+profesor, para mi opinión este curso de Freddy es 10 veces mejor que el
+anterior pero, para gusto los colores.
+
+Que tengas buen día y nunca paremos de aprender.
+
+Ver más <https://platzi.com/comentario/918620/>
+DAVID EDUARDO BAEZ SANCHEZ
+
+DAVID EDUARDO BAEZ SANCHEZ
+
+hace 2 años <https://platzi.com/comentario/996359/>
+5
+
+Entendido
+
+|git init
+git config --list
+git config --list --show-origin 
+git config --global user.name "DBZ"
+git config --global user.email "dbzn@gmail.com"
+
+git status
+git add historia.txt
+git rm historia.txt
+git rm --cached historia.txt
+git commit -m "Este es el primer commit de este archivo"
+git add ,
+git commit -m "Cambio para reflejar la edad correcta"
+git log historia.txt
+
+|
+
+Ver más
+Responder
+Jose Luis Barbosa Cepeda
+
+Jose Luis Barbosa Cepeda
+
+hace 2 años <https://platzi.com/comentario/1836534/>
+5
+
+*AQUI MIS APUNTES DE ESTA CLASE, ESPERO Y LES SIRVAN 😄*
+Para crear un repositorio tienes que decir donde esta la carpeta central
+de tus archivos *(* por ejemplo normalmente cuando desarrollas una
+pagina web es donde esta un archivo index.html *)*
+*git init* Es para inicializar un repositorio.
+*git status* Es para saber el estado del proyecto en ese momento.
+*git add* Es para incluir los archivos en el stage area y empezar a
+hacer un seguimiento *(*tracked*)*.
+*git rm --cached* Sirve para quitar algún archivo de tu base de datos de
+git, básicamente quita un archivo de el stage area *(*untracked*)*.
+*git commit* Es el que envia los cambios al repositorio, es posible
+hacer commit y ya pero esto es una *mala practica!*, lo correcto es
+dejar un mensaje antes de enviarlo al repositorio: *git commit -m “Tu
+mensaje”*.
+*git config* Sirve para configurar git.
+*git config --list* Podremos ver la configuración por defecto de tu git,
+así como las cosas que te faltan configurar.
+*git config --list --show-origin* Para ver donde están las
+configuraciones guardadas *(*casos avanzados*)*.
+*git config --global user. name “Tu nombre”* Sirve para cambiar tu
+nombre de usuario en git.
+*git config --global user. email “Tucorreo @correo. com”* Sirve para
+cambiar tu email en git.
+*git log* Para ver la historia de cambios de tu archivo.
+*HEAD* Es la versión mas actual o la que esta en cabecera.
+
+Ver más
+Responder
+David Rosas
+
+David Rosas
+
+hace un año <https://platzi.com/comentario/2266700/>
+5
+
+Si olvidan poner mensaje al commit y entran al editor de texto *vim*,
+solo se oprime *i* para comenzar a escribir, Escape para salir del modo
+edición, *:w* para guardar y *:q* para salir.
+
+Responder
+user_deleted_1572741
+
+user_deleted_1572741
+
+hace un año <https://platzi.com/comentario/2309650/>
+5
+
+⚙ *git config* permite definir valores de *configuración* de *Git* a
+nivel de un proyecto *global* o** local**.
+
+Responder
+oteka21
+
+oteka21
+
+hace 3 años <https://platzi.com/comentario/599412/>
+5
+
+Una buena practica en platzi seria por cada curso crear un archivo
+apuntes.txt e e irlo trackeando en git en conjunto con los archivos del
+curso
+
+Responder
+Cristian Andres Escobar Canizales
+
+Cristian Andres Escobar Canizales
+
+hace un año <https://platzi.com/comentario/2659389/>
+4
+
+Git Comandos_Página_1.jpgGit Comandos_Página_2.jpgGit Comandos_Página_3.jpg
+
+Ver más
+Responder
+Henry Alexander Velásquez Rosas
+
+Henry Alexander Velásquez Rosas
+
+hace un año <https://platzi.com/comentario/2833164/>
+4
+
+Mis apuntes :3
+8. Crea un repositorio de Git y haz tu primer commit.png
+
+Responder
+Alexander Aya Aponte
+
+Alexander Aya Aponte
+
+hace 3 años <https://platzi.com/comentario/781265/>
+4
+
+Hola a todos yo tenía un lio, no se ejecutaba visual studio code desde
+git bash, hice la configuración agregando de la ruta y nada, el tema es
+que yo instalé Visual Studio Code - Insiders y para ejecutarlo hay que
+invocarlo como (Code-Insiders) espero les ayude este pequeño aporte😎👍
+
+Responder
+Johny Jiménez
+
+Johny Jiménez
+
+hace 2 años <https://platzi.com/comentario/1172309/>
+4
+
+A-tó-mi-co, Se dice a-tó-mi-co 😄
+
+Responder
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+hace 3 años <https://platzi.com/comentario/841880/>
+4
+
+Con el comando *git config --unset* puedes borrar la propiedad que
+quieras borrar de la configuración.
+Por ejemplo:
+git config --global --unset color.ui
+git config --global --unset core.editor
+recuerda esto modifica el entorno global, es decir aplica para todos tus
+repositorios, para hacerlo de forma local (solo en el repositorio
+actual) agrega --local antes del --unset.
+
+Tip: Estas configuraciones se encuentran en archivos de texto que igual
+puedes editar de forma directa si así lo deseas, sólo ten mucho cuidad
+podrías romper algo
+
+Rutas (Mac y Linux):
+
+  * Configuración global: ~/.gitconfig
+  * Configuración local: ./.git/config
+
+Ver más
+Responder
+EdwardMSep
+
+EdwardMSep
+
+hace 2 años <https://platzi.com/comentario/1019900/>
+4
+
+Los comandos a utilizar basicos son los siguiente:
+
+-git init : Para iniciar el repositorio.
+-git add: para agregar a cached los cambios realizados a tu archivo.
+-git commit: para agregar los cambios al repositorio (Es importante
+utilizar "git commit -m “MENSAJE” para agregrar un mensaje al agregar
+cambios al repositorio.
+-git log: para verificar las diferentes versiones y cambios que le haz
+realizado a tu documentos (verificar commits).
+-git config --global user.name <http://user.name/>: para cambiar el nombre.
+-git config global user.email: para cambiar el email
+
+Ver más
+Responder
+Cristian Fabian Tovar
+
+Cristian Fabian Tovar
+
+hace 3 años <https://platzi.com/comentario/593771/>
+4
+
+Si ingresan en la terminal:
+
+|git config --global alias.superlog "log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+
+|
+
+cada que ejecuten git superlog se ve más cómodo
+
+Ver más
+Responder
+Angie Garcia
+
+Angie Garcia
+
+hace 2 años <https://platzi.com/comentario/1175031/>
+4
+
+muy bueno!! yo realice los cambios en el archivo desde vim, para aplicar
+lo visto en la clase de linea de comandos, igualmente con la creación de
+ese mismo
+Captura de pantalla de 2020-04-22 20-03-12.pngCaptura de pantalla de
+2020-04-22 20-03-21.png
+
+Responder
+Exal Rodríguez
+
+Exal Rodríguez
+
+hace 2 años <https://platzi.com/comentario/1175031/>
+1
+
+Es usted una crack!
+
+Jose Ignacio Naranjo Guerra
+
+Jose Ignacio Naranjo Guerra
+
+hace 2 años <https://platzi.com/comentario/1023893/>
+4
+
+Una forma de salir de la ventana de comando cuando se olvide poner el
+mensaje al lanzar el commit es:
+
+Dar clic en ESC¨y después escribir :wq
+wq.PNG
+
+Responder
+Ivan Agustin
+
+Ivan Agustin
+
+hace 2 años <https://platzi.com/comentario/1023893/>
+1
+
+Me paso esto y no lo puedo arreglar, tienes idea?
+
+Jorge Dimitrios Gianareas Tsimogianis
+
+Jorge Dimitrios Gianareas Tsimogianis
+
+hace 2 años <https://platzi.com/comentario/964141/>
+4
+
+Recuerda que Git está optimizado para trabajar en equipo, por lo tanto,
+debemos darle un poco de información sobre nosotros. No debemos hacerlo
+todas las veces que ejecutamos un comando, basta con ejecutar solo una
+sola vez los siguientes comandos con tu información:
+
+git config --global user.email "tu@email.com <mailto:%22tu@email.com>"
+git config --global user.name <http://user.name/> “Tu Nombre”
+
+Responder
+Yorfrank Bastidas
+
+Yorfrank Bastidas
+
+hace un año <https://platzi.com/comentario/2178581/>
+4
+
+
+    Crea un repositorio de Git y haz tu primer commit
+
+------------------------------------------------------------------------
+
+  * Al utilizar el comando /git init/ se crea la estructura de carpetas
+    utilizada por git para el repositorio
+      o La carpeta se llama .git y es una carpeta oculta, podemos verla
+        con el comando /ls -al/
+  * Al crear un archivo podemos ver con /git status/ en que estado se
+    encuentran dichos archivos y git nos indica si aún no se ha agregado
+    con /git add/ o si ya están en la /staging area/
+  * *|git rm —cached <archivo>|:* /cached/ significa que está en memoria
+    ram (/staging)/, sirve para quitar los cambios añadidos con /git
+    add/ del /staging/
+  * *|git config|:* muestra todos los posibles usos del comando para
+    configurar git
+      o *|--list|:* muestra una lista con la configuración actual
+      o *|--list --show-origin|:* muestra donde están guardados los
+        archivos de configuración (usuarios avanzados)
+      o *|--global user.name "<usuario>"|:* configura un nombre de
+        usuario en git para ser usado en todos los repositorios
+      o *|--global user.email "<correo>"|:* configura el correo del
+        usuario para ser usado en todos los repositorios
+
+Es necesario configurar el nombre de usuario y el correo en git para
+poder realizar commits
+
+  * *|git log <archivo>|:* muestra un historial de todos los commits
+    realizados en dicho archivo
+
+Ver más
+Responder
+Agustin Villegas Quintero
+
+Agustin Villegas Quintero
+
+hace 2 años <https://platzi.com/comentario/1941900/>
+4
+
+  * Para crear un repositorio usamos el comando
+
+|<$git init>
+
+|
+
+Una vez ejecutado el comando, podemos verificar la creción del
+repositorio solicitando a la consola que nos muestre el contenido del
+directorio, incluido los archivos ocultos, usando el comando
+
+|<$ls -al>
+
+|
+
+  * Para visualizar el estatus del proyecto utilzamos el comando
+
+|<$git status>
+
+|
+
+  * Para cambiar el estado de un archivo de “untracked” a “tracked”
+    usando el comando
+
+|<$git add archivo.txt>
+
+|
+
+  * Para cambiar del estado actual al estado anterior un archivo usamos
+    el comando
+
+|<$git rm --cached archivo.txt>
+
+|
+
+  * Para mover el archivo al repositorio usamos commit, una buena
+    práctica es dejar un comentario para inidicar los cambios
+    realizados, el comentario se agrega utilizando un argumento especial
+    (*-m*), y el comentario debe ir entre comillas
+
+|<$git commit -m "Comentario">
+
+|
+
+Para poder ejecutar un commit correctamente, es necesario completar las
+configuraciones de usuario de git
+
+  * Para visualizar los comandos disponibles en la configuración de git
+    utilizamos
+
+|<$git config>
+
+|
+
+  * Para visualizar las configuraciones actuales usamos
+
+|<$git config --list>
+
+|
+
+  * Para visualizar la ubicación de las configuraciones de git utilizamos
+
+|<$git config --list --show-origin>
+
+|
+
+  * Para cambiar el usuario de git utilizamos
+
+|<$git config --global user.name "Nombre de Usuario">
+
+|
+
+El nombre de usuario que se usará debe estar dentro de comillas
+
+  * Para cambiar el correo electrónico del usuario de git utilzamos
+
+|<$git config --global user.email "Correo electrónico">
+
+|
+
+El correo electrónico que se usará debe estar dentro de comillas, en
+ambos casos la palabra *–global* indica el cambio en todos los usuarios
+globales de git
+
+  * Para visualizar el contenido de un archivo desde la consola usamos
+    el comando
+
+|<$cat archivo.txt>
+
+|
+
+  * Para registrar correctamente los cambios realizados dentro de un
+    archivo en git y que estos se vean reflejados en el repositorio es
+    necesario seguir ejecutar los comando en el siguiente orden
+
+|<$git add arcihvo.txt
+$git commit -m "comentarios de cambios">
+
+|
+
+  * En caso de que queramos ejecutar un comando a todos el contenido de
+    un directorio, podemos utilizar el signo punto (*.*), ya que en git
+    punto es sinónimo del directorio actual en el que estemos ubicados
+
+|<$git add .>
+
+|
+
+  * Para revisar el historial de cambios de un archivo en git, usamos el
+    comando
+
+|<$git log>
+
+|
+
+*Notas adicionales*
+
+  * En git el uso de un solo guión (*-*) indica el uso de un comando de
+    acceso rápido
+
+|<$-al
+$-m>
+
+|
+
+  * En git el uso de un dos guiones (*–*) indica el uso de palabras
+
+|<$git config --global user.name
+$git config --list>
+
+|
+
+  * El uso de la palabra *–cached* hace referencia a algo ubicado en la
+    memoria RAM
+
+Ver más
+Responder
+Lautaro Cabral
+
+Lautaro Cabral
+
+hace 2 años <https://platzi.com/comentario/1045385/>
+4
+
+al fin una explicación sobre lo que significa un guión y dos guiones
+
+Responder
+Beicker Jesus Zambrano Escalona
+
+Beicker Jesus Zambrano Escalona
+
+hace 3 años <https://platzi.com/comentario/601645/>
+4
+
+Aquí les dejo un post <https://tomasdelvechio.github.io/old/440/> sobre
+cómo escribir el comentario para su commit.
+
+Responder
+Yefreilee Danny Samuel Parra
+
+Yefreilee Danny Samuel Parra
+
+hace 22 días <https://platzi.com/comentario/3749618/>
+3
+
+Si alguien hace la cagada que hice yo, de escribir git commit sin los
+comentarios, esto se guarda y bueno la forma de borrar esto es primero
+hacer un git status y debemos tipear git rm --cached historia.txt y este
+te dira el siguiente mensaje $ git status
+On branch master
+Changes to be committed:
+(use “git restore --staged <file>…” to unstage)
+deleted: historia.txt
+
+Una vez que haga eso volvemos a hacer el git add historia.txt
+y despues hacemos el git add historia.txt
+
+y ya ahora si se creara correctamente, Saludos!
+
+Ver más
+Responder
+Miguel Ángel Ramón Candia
+
+Miguel Ángel Ramón Candia
+
+hace 5 meses <https://platzi.com/comentario/3377011/>
+3
+
+Holaaaa a todos les dejo mis apuntes 😄
+
+
+      Datos✍🏻
+
+
+        📌 Cambios atómicos
+
+    Significa que cada cambio se guarda de manera independiente
+
+
+      Notas 📒
+
+
+        ✏️ Crear un repositorio
+
+    Ir a la carpeta del proyecto, por ejemplo en el desarrollo web es
+    donde está el archivo index.html.
+    Estando en ella se ejecuta |git init| . Esto crea una carpeta oculta
+    llamada *.git* adentro de ella está la base de datos que registrará
+    todos los cambios atómicos.
+
+
+        ✏️ Abrir VSC desde la terminal
+
+    Ejecutar el comando |code|
+
+    También se pude colocar el nombre del archivo a crear, por ejemplo:
+    |code miHistoria.txt|
+
+    Del mismo modo si hay un archivo que deseas abrir con VSC ejecuta
+    |code nombreArchivo|
+
+
+        ✏️ Añadir/quitar archivos a staging area
+
+    Añadir con |git add nombreArchivo| o |git add .| añadiendo todo lo
+    de la carpeta actual.
+
+    Para quitar un archivo se ejecuta |git rm --cached archivo| o para
+    quitar todos |git rm -r --cached *| (el atributo -r se coloca para
+    aquellos archivos que estén en subcarpetas)
+
+
+        ✏️ Configurar git para commits
+
+    Con |git config| se imprime las opciones de configuración que tiene git
+
+    Con |git config --list| se imprime las opciones actuales de git. 💡
+    Si te muestra la con otra interfaz a la de la clase, ejecutar de
+    este modo |git config --list | cat|
+
+    Con |git config --list --show-origin| se muestra la ruta de donde se
+    encuentran los archivos de configuración.
+
+    Para agregar nuestro nombre y correo (y así poder ejecutar un
+    commit) se ejecuta: |git config --global user.name "Tu nombre"| y
+    |git config --global user.email "Tu correo"|
+
+
+        ✏️ Ejecutar commit
+
+    Se ejecuta |git commit -m "Mensaje relevante"|
+
+
+        ✏️ Ver historial de commits
+
+    Se ejecuta |git log|
+
+    Cada commit muestra esta información:
+
+2022-02-21_11h08_11.png
+
+Ver más
+Responder
+Gerardo Javier Ramírez Gómez
+
+Gerardo Javier Ramírez Gómez
+
+hace 2 años <https://platzi.com/comentario/1984511/>
+3
+
+Les comparto mis notas de la clase
+Clase repo y commit.png
+
+Responder
+Jorge Eliecer Barcasnegras Deavila
+
+Jorge Eliecer Barcasnegras Deavila
+
+hace 2 años <https://platzi.com/comentario/1984511/>
+2
+
+¿ Utilizas algun programa en particular para hacer esas notas?, están
+geniales.
+
+Gerardo Javier Ramírez Gómez
+
+Gerardo Javier Ramírez Gómez
+
+hace 2 años <https://platzi.com/comentario/1984511/>
+2
+
+Utilizo canva: https://www.canva.com/ <https://www.canva.com/>
+
+3 Respuestas <https://platzi.com/comentario/1984511/>
+Sebastián Ospino
+
+Sebastián Ospino
+
+hace 5 meses <https://platzi.com/comentario/3397461/>
+3
+
+Hasta ahora esto es lo que yo sé de git, ¡de aquí en adelante todo será
+nuevo!
+
+Responder
+David Díaz
+
+David Díaz
+
+hace 10 meses <https://platzi.com/comentario/2897370/>
+3
+
+A veces podremos tener algún tipo de archivo que no quieres que Git
+añada automáticamente o más aún, que ni siquiera quieras que aparezca
+como no rastreado. Este suele ser el caso de archivos generados
+automáticamente como trazas o archivos creados por tu sistema de
+compilación. En estos casos, puedes crear un archivo llamado
+*.gitignore* que liste patrones a considerar. Este es un ejemplo de un
+archivo *.gitignore*:
+
+|$ cat .gitignore
+  *.[oa]
+  *~
+
+|
+
+La primera línea le indica a Git que ignore cualquier archivo que
+termine en “.o” o “.a” - archivos de objeto o librerías que pueden ser
+producto de compilar tu código. La segunda línea le indica a Git que
+ignore todos los archivos que terminen con una tilde (~), la cual es
+usada por varios editores de texto como Emacs para marcar archivos
+temporales.
+
+Ver más
+Responder
+José Ramos Benhumea
+
+José Ramos Benhumea
+
+hace 7 meses <https://platzi.com/comentario/3153195/>
+3
+
+Según el libro progit un commit es la forma en que Git confirma que todo
+lo que se haya rastreado o añadido con git add . va a ser escrito en la
+base de datos del proyecto git.
+Responder
+Andres Miguel Avalos Mendoza
+
+Andres Miguel Avalos Mendoza
+
+hace 7 meses <https://platzi.com/comentario/3144108/>
+3
+
+*Para empezar tenemos que saber que es un repositorio y un commit.*
+ㅤㅤ
+Un repositorio es una base de datos de nuestro proyectos, es decir el
+conjunto de datos que conforman el proyecto.
+ㅤㅤㅤㅤ
+Un commit son los cambios en uno o mas archivos en nuestro proyecto.
+ㅤㅤ
+Para crear un repositorio vamos usar |git init|.
+ㅤㅤㅤㅤㅤㅤ
+Para añadir archivos a nuestro proyecto vamos a usar |git add|.
+ㅤㅤ
+Para ver el estado de nuestro repositorio usamos |git status|.
+ㅤㅤㅤㅤ
+Cuando hagamos un cambio en nuestros archivos usamos |git add
+<nombre_del_archivo>| para que git pueda registrar sus cambios.
+ㅤㅤ
+Luego para hacer el commit usaremos |git commit -m "<Descripción>"| y se
+añadirá.
+
+Ver más
+Responder
+Juan Guerrero
+
+Juan Guerrero
+
+hace 9 meses <https://platzi.com/comentario/2926567/>
+3
+
+A la hora de ejecutar
+
+|git status
+
+|
+
+me daba el error /fatal: not a git repository (or any of the parent
+directories): .git/ .
+
+Lo pude solucionar con ejecutando el comando
+
+|git init
+
+|
+
+Espero que les funcione.
+
+Ver más
+Responder
+Omar Flores
+
+Omar Flores
+
+hace 6 meses <https://platzi.com/comentario/3215473/>
+3
+
+Hola, si tienen problema con los directorios que tienen espacios, por
+ejemplo: "Curso de Platzi"
+lo que pueden hacer para entrar a este directorio con el git Bash es
+hacer lo siguiente:
+ejemplo: cd ‘Curso de Platzi’ y listo, el uso de las comillas les
+ayudara a entrar en archivos que tengan espacios.
+
+Responder
+Romen Ter Gazarian
+
+Romen Ter Gazarian
+
+hace 5 meses <https://platzi.com/comentario/3351689/>
+3
+
+Freddy, el unico profesor en el cual, ademas de no aumentar la velocidad
+del video, seguramente retrocediste unas 20 veces, lo cual el video de
+10 minutos se te hizo de 30
+
+Responder
+Francisco Parejo
+
+Francisco Parejo
+
+hace 6 meses <https://platzi.com/comentario/3269653/>
+3
+
+Buenas. A mí no me funciona a la hora de hacer commit.
+
+Esto es lo que me sale una vez lanzo el comando commit más el mensaje
+editable.
+
+$ git commit -m ´´Este es primer commit de este archivo´´
+error: pathspec ‘es’ did not match any file(s) known to git
+error: pathspec ‘primer’ did not match any file(s) known to git
+error: pathspec ‘commit’ did not match any file(s) known to git
+error: pathspec ‘de’ did not match any file(s) known to git
+error: pathspec ‘este’ did not match any file(s) known to git
+error: pathspec ‘archivo´´’ did not match any file(s) known to git
+
+Ver más
+Responder
+jenny katherine arevalo rivera
+
+jenny katherine arevalo rivera
+
+hace 6 meses <https://platzi.com/comentario/3210426/>
+3
+
+Los comandos básicos para guardar un archivo en nuestro repositorio son:
+
+ 1. *Git add*: este comando puede ir acompañado por el nombre del
+    archivo o por .(punto), este indica que va a agregar toda la
+    información del repositorio en el que nos encontramos.
+ 2. *Git status*: este comando permite ver el estado en el que se
+    encuentra la información que vamos a agregar, cuando esta en color
+    verde significa que ya esta listo para subir
+ 3. *Git commit*: este comando por buenas practicas se sugiere que vaya
+    acompañado por un mensaje, esto agregando -m “/mensaje/”, de lo
+    contrario puedes solo colocar git commit y este te hará el commit
+    sin problemas pero al revisar no sabrás de que se trata
+ 4. *Git push*: este comando va acompañado de la rama en la que vamos a
+    subir los cambios, así: origin </rama/>
+
+*Nota*:
+
+  * La primera vez al realizar un repositorio agregamos unos comandos
+    que nos permiten darle a Git un poco de información sobre nosotros,
+    esto con el fin de identificar quien realiza los cambios, cuando se
+    trabaja en equipo
+  * Para eliminar o cambiar el estado de un archivo del repositorio se
+    usa el comando gir rm <archivo>, pero si queda guardado en cache
+    usamos git rm --cached <archivo>
+  * En los flags cuando esta con un solo - indica que es la letra la que
+    se usa, cuando esta o colocamos – usamos la palabra completa.
+
+Ver más
+Responder
+Marcelo Sánchez
+
+Marcelo Sánchez
+
+hace 3 años <https://platzi.com/comentario/866783/>
+3
+
+Un genio freddy, muy bien explicado todo.
+
+Responder
+Luis Daniel Urrutia Mateus
+
+Luis Daniel Urrutia Mateus
+
+hace 6 meses <https://platzi.com/comentario/866783/>
+1
+
+Nada del otro mundo en youtube esta esto
+
+youngsinlim
+
+youngsinlim
+
+hace 3 años <https://platzi.com/comentario/597466/>
+3
+
+pregunta, si uso dos servicios distintos de git como GitHub y bitbucket
+como puedo configurar el usuario y email si uso cuentas de correo
+distintas para los dos servicios?
+
+Responder
+anibalrojas
+
+anibalrojas
+
+Profe Platzihace 3 años <https://platzi.com/comentario/597466/>
+3
+
+Con una configuración por proyecto específica a cada repo en el que
+estés trabajando, cuando esta no existe git toma la global. Básicamente
+ejecutas el git config en el repo sin el switch global
+
+Mariangelica Useche
+
+Mariangelica Useche
+
+Profe Platzihace 3 años <https://platzi.com/comentario/597466/>
+3
+
+¡Hola! Sí puedes hacerlo. Al usar $ git config --global user.email
+email@mail.com Estás configurando ese email globalmente (valga la
+redundancia), entonces tomará por defecto este valor. Ahora, si quieres
+tener una configuración específica para un repositorio, puedes usar el
+comando sin la opción "--global": $ git config user.email
+email2@mail.com De esta manera, puedes tener configuraciones específicas
+para cada proyecto, manteniendo la configuración global que será tomada
+por defecto. Espero haberte ayudado. Saludos.
+Ver más <https://platzi.com/comentario/597466/>
+Dani Ospina
+
+Dani Ospina
+
+Platzi Teamhace 2 años <https://platzi.com/comentario/2132413/>
+3
+
+Hola, en git config --list aparece mi email y user name pero al hacer el
+commit me aparece como si no estuviera. Alguien me puede ayudar por
+favor. Gracias.
+
+Responder
+Enmanuel Jose Medina Delgado
+
+Enmanuel Jose Medina Delgado
+
+hace 2 años <https://platzi.com/comentario/1230305/>
+3
+
+Responder
+Diana Carolina Torres Castaño
+
+Diana Carolina Torres Castaño
+
+hace 2 años <https://platzi.com/comentario/1230305/>
+1
+
+jejejejejejeje
+
+Irving Juárez
+
+Irving Juárez
+
+hace un año <https://platzi.com/comentario/2220910/>
+3
+
+Si quieren saltarse el paso de hacer el |add|, solo agreguen la bandera
+|-a|. Por ejemplo:
+
+|git commit -a -m "Freddy es un año mas viejo"
+
+|
+
+Y automáticamente se hace el |add| y el |commit| en un solo comando
+
+Responder
+Daniel Saldarriaga
+
+Daniel Saldarriaga
+
+hace 2 años <https://platzi.com/comentario/1994791/>
+3
+
+En octubre de 2020, GutHub cambió el branch por defecto de “master” a
+“main” para evitar referencias a la esclavitud:
+
+https://www.xataka.com/aplicaciones/master-blacklist-mundo-software-se-rebela-referencias-a-esclavitud <https://www.xataka.com/aplicaciones/master-blacklist-mundo-software-se-rebela-referencias-a-esclavitud>
+
+https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/ <https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/>
+
+Responder
+Sandro Xavier Huaynasi Calcina
+
+Sandro Xavier Huaynasi Calcina
+
+hace 3 años <https://platzi.com/comentario/726827/>
+3
+
+¿Cómo puedo solo cambiar el comentario de un commit?
+
+Responder
+leonmg
+
+leonmg
+
+hace 3 años <https://platzi.com/comentario/726827/>
+5
+
+Puedes usar el comando
+
+|git commit --amend
+
+|
+
+Juan David Castro Gallego
+
+Juan David Castro Gallego
+
+Profe Platzihace 3 años <https://platzi.com/comentario/726827/>
+3
+
+😉👉 https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/
+<https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/>
+
+Nicolas Esteban Prieto Sarmiento
+
+Nicolas Esteban Prieto Sarmiento
+
+hace 3 años <https://platzi.com/comentario/636377/>
+3
+
+En
+
+|git config --list
+
+|
+
+da la misma con -l
+
+|git config -l
+
+|
+
+Ver más
+Responder
+Jhosep Pérez
+
+Jhosep Pérez
+
+hace 3 años <https://platzi.com/comentario/612894/>
+3
+
+Para este curso veo los videos dos veces y voy anotando todos los
+comandos en un Wordpad 😄
+
+Responder
+Luis Diaz
+
+Luis Diaz
+
+hace 3 años <https://platzi.com/comentario/608570/>
+3
+
+excelente dato, no sabia que se podia abrir visual studio tan rapido
+desde la terminal
+
+Responder
+Ken Esparta Ccorahua
+
+Ken Esparta Ccorahua
+
+hace 3 años <https://platzi.com/comentario/608570/>
+4
+
+Con el comando |code .| puedes abrir el VSCode con todo el contenido de
+tu carpeta actual.
+
+Santiago Ricci
+
+Santiago Ricci
+
+hace 3 años <https://platzi.com/comentario/608570/>
+6
+
+Para aquellos que al escribir code no abre visual studio deben hacer lo
+siguiente:
+1- Abrir Visual Studio y entrar a la paleta de comandos ( ⌘+ ⇧+ P en Mac).
+2- Escribir shell command para encontrar Shell Command: Install ‘code’
+command in PATH command, enter en dicha opción.
+3- Reiniciar terminal.
+
+Listo!!!
+
+Johan Manuel Perez Soto
+
+Johan Manuel Perez Soto
+
+hace 3 años <https://platzi.com/comentario/626323/>
+3
+
+Responder
+Haxel Lázgare Rendón
+
+Haxel Lázgare Rendón
+
+hace 3 años <https://platzi.com/comentario/712767/>
+3
+
+Les anexo una liga de comandos elementales para git:
+
+https://www.hostinger.mx/tutoriales/comandos-de-git
+<https://www.hostinger.mx/tutoriales/comandos-de-git>
+
+Responder
+César David Arroyo Torres
+
+César David Arroyo Torres
+
+hace 3 años <https://platzi.com/comentario/708014/>
+3
+
+Si el archivo lo quieren modificar ahi mismo en consola, usen el comando
+“vi” seguido del nombre del archivo, modifican y para salir pulsan esc :wq
+
+Responder
+Diana Marcela Vargas Ortega
+
+Diana Marcela Vargas Ortega
+
+hace 3 años <https://platzi.com/comentario/730403/>
+3
+
+Excelente, la verdad git me tenia frustrada… pero ya entendi mejor 😄
+
+Responder
+Kevin José Guzmán Ventura
+
+Kevin José Guzmán Ventura
+
+hace 3 años <https://platzi.com/comentario/740156/>
+3
+
+|Fam. Guzman Gonzalez@DESKTOP-IDM3MVO MINGW64 /c/users
+$ mkdir proyecto2/
+mkdir: cannot create directory ‘proyecto2/’: Permission denied
+
+|
+
+eso me indica cuando quiero hacer mi carpeta
+¿Quien me puede ayudar?
+
+Ver más
+Responder
+Alejandro Jimenez
+
+Alejandro Jimenez
+
+hace 3 años <https://platzi.com/comentario/740156/>
+2
+
+Quítale el “/” del final
+
+Jhon Wilchez
+
+Jhon Wilchez
+
+hace 2 años <https://platzi.com/comentario/1199801/>
+3
+
+git add . (Agrega archivo a cache)
+git rm --cached (Borra cambio de la cache)
+git add .
+git commit -m “Comentario” (Guarda Cambios despues de un git add .)
+git status (revisa el estado del archivo)
+
+Responder
+José Sánchez
+
+José Sánchez
+
+hace 3 años <https://platzi.com/comentario/901671/>
+3
+
+Me parece que hay un error en la explicación, el comando “git rm” (sin
+--cached) provoca un error en la terminal y no causa ningún cambio en el
+archivo involucrado, creo que la única forma de deshacer el proceso de
+“git add <file>” es con “git rm --cached <file>”.
+
+Responder
+Mrinternauta
+
+Mrinternauta
+
+hace 3 años <https://platzi.com/comentario/891649/>
+3
+
+*Comandos de GIT*
+
+|git config --list //Lista las configuraciones
+git config --global user.name "Mr Internauta"
+git config --global user.email "correo@correo.com"
+git init //Inicializar un directorio como un proyecto git
+git add nombreArchivo.txt //añadir un archivo al staging
+git add . //añadir todos los archivos al staging
+git commit -m "mensaje (version1)" //Añadir los cambios a la rama master(Se puede realizar el commit sin el mensaje pero es mala practica)
+git status //ver el estado actual del proyecto
+git log //ver los cambios del proyecto
+git log nombreArchivo.txt //Se pueden ver los cambios de un archivo en particular
+
+|
+
+Ver más
+Responder
+UlisesSG
+
+UlisesSG
+
+hace 3 años <https://platzi.com/comentario/897271/>
+3
+
+*Los $ no debes escribirlos
+
+|1)Añade tu usuario y email
+
+|
+
+$ git config --global user.name <http://user.name/> “” añades usuario.
+$git config --global --unset-all user.name <http://user.name/> para
+eliminar el usuario.
+$git config --global user.email “” añades tu correo.
+$git config --global --unset-all user.email para eliminar el correo.
+$git config -l o $git config –global --list si quieres verificar que lo
+hiciste bien.
+
+|2)Crea el directorio
+
+|
+
+cd ~ para ir a la carpeta de tu usuario.
+mkdir para crear el directorio.
+
+|3)Luego crea el repositorio (master) y staging.
+
+|
+
+$git init para crear el repositorio y staging, recuerda hacerlo en el
+directorio que creaste.
+$rm -rf .git para eliminar el repositorio y staging.
+
+|4)Crea un archivo
+
+|
+
+$touch (recuerda añadir la extensión de archivo: .txt)
+
+|5)Escribe en ese archivo
+
+|
+
+Puedes hacerlo desde tu editor de código o en el bloc de notas (NUNCA en
+Word).
+
+|6)Guarda el archivo en staging
+
+|
+
+$git add
+
+|7)Guarda el archivo en el repositorio(master)
+
+|
+
+$git commit -m “” (recuerda dejar un mensaje).
+$git commit . -m “” para guardar todos los archivos que estén en staging
+en el repositorio.
+$git commit historia.txt -m “” para guardar un archivo especifico en el
+repositorio.
+
+|8)Verifica 
+
+|
+
+$git status para verificar el estado del archivo, debe decir “nothing to
+commit, working tree clean”
+
+|9)Cambia el archivo a unstaged 	
+
+|
+
+Luego de realizar el commit vuelve a modificar el archivo, guárdalo y
+verifica su status, esto hará que esté unstaged (El archivo está
+tracked, pero git desconoce qué cambios hay), para solucionarlo repite
+los pasos 6 y 7
+
+Ver más
+Responder
+Carlos Miguel Briceño Garcia
+
+Carlos Miguel Briceño Garcia
+
+hace 2 años <https://platzi.com/comentario/967277/>
+3
+
+proyecto 1 no era un grupo de merengue?..disculpem, era solo el chiste
+malo del dia…
+
+Responder
+EdwardMSep
+
+EdwardMSep
+
+hace 2 años <https://platzi.com/comentario/1014457/>
+3
+
+Lo mejor de este curso es que puedo aprender a mi ritmo, pausando y
+adelantando cuanto quiero. Gracias Freddy, buena clase.
+
+Responder
+
+
+Se agrega un comentario ejemplo. pero a la vez se modifica para comprender git.
+=======
+Platzi isotipo
+
+Platzi Logo
+
+<https://platzi.com/home>
+Joaquin
+
+543 pts
+
+  *
+    Home
+     <https://platzi.com/home/>
+  *
+    Blog
+     <https://platzi.com/blog/>
+  *
+    Comunidad
+     <https://platzi.com/comunidad/>
+  *
+    Agenda
+     <https://platzi.com/agenda/>
+  *
+    TV
+     <https://platzi.com/live/>
+
+    ------------------------------------------------------------------------
+    ------------------------------------------------------------------------
+  * Ver todos los resultados <https://platzi.com/buscar/?search=>
+
+Curso Profesional de Git y GitHub
+
+Curso Profesional de Git y GitHub <https://platzi.com/cursos/git-github/>
+
+Introducción a Git
+
+1
+
+¿Por qué usar un sistema de control de versiones como Git?
+
+<https://platzi.com/clases/1557-git-github/19934-por-que-usar-un-sistema-de-control-de-versiones-co/>
+2
+
+¿Qué es Git?
+
+<https://platzi.com/clases/1557-git-github/20215-que-es-git/>
+3
+
+Instalando Git y GitBash en Windows
+
+<https://platzi.com/clases/1557-git-github/19933-instalando-git-y-gitbash-en-windows/>
+4
+
+Instalando Git en OSX
+
+<https://platzi.com/clases/1557-git-github/19932-instalando-gitbash-en-osx/>
+5
+
+Instalando Git en Linux
+
+<https://platzi.com/clases/1557-git-github/19931-instalando-git-en-linux/>
+6
+
+Editores de código, archivos binarios y de texto plano
+
+<https://platzi.com/clases/1557-git-github/19938-editores-de-codigo-archivos-binarios-y-de-texto-pl/>
+7
+
+Introducción a la terminal y línea de comandos
+
+<https://platzi.com/clases/1557-git-github/19937-introduccion-a-la-terminal-y-linea-de-comandos/>
+
+Comandos básicos en Git
+
+8
+
+Crea un repositorio de Git y haz tu primer commit
+
+<https://platzi.com/clases/1557-git-github/19936-crea-un-repositorio-de-git-y-haz-tu-primer-commit/>
+9
+
+Analizar cambios en los archivos de tu proyecto con Git
+
+<https://platzi.com/clases/1557-git-github/19945-analizar-cambios-en-los-archivos-de-tu-proyecto-co/>
+10
+
+¿Qué es el staging y los repositorios? Ciclo básico de trabajo en Git
+
+<https://platzi.com/clases/1557-git-github/19946-que-es-el-staging-y-los-repositorios-ciclo-basico-/>
+11
+
+¿Qué es branch (rama) y cómo funciona un Merge en Git?
+
+<https://platzi.com/clases/1557-git-github/19947-que-es-un-branch-rama-y-como-funciona-un-merge-en-/>
+12
+
+Volver en el tiempo en nuestro repositorio utilizando reset y checkout
+
+<https://platzi.com/clases/1557-git-github/19948-volver-en-el-tiempo-en-nuestro-repositorio-utiliza/>
+13
+
+Git reset vs. Git rm
+
+<https://platzi.com/clases/1557-git-github/23295-git-reset-vs-git-rm/>
+
+Flujo de trabajo básico en Git
+
+14
+
+Flujo de trabajo básico con un repositorio remoto
+
+<https://platzi.com/clases/1557-git-github/19935-flujo-de-trabajo-basico-con-un-repositorio-remoto/>
+15
+
+Introducción a las ramas o branches de Git
+
+<https://platzi.com/clases/1557-git-github/19940-introduccion-a-las-ramas-o-branches-de-git/>
+16
+
+Fusión de ramas con Git merge
+
+<https://platzi.com/clases/1557-git-github/19939-funcion-de-ramas-con-git-mer-7/>
+17
+
+Resolución de conflictos al hacer un merge
+
+<https://platzi.com/clases/1557-git-github/19941-resolucion-de-conflictos-al-hacer-un-merge/>
+
+Trabajando con repositorios remotos en GitHub
+
+18
+
+Cambios en GitHub: de master a main
+
+<https://platzi.com/clases/1557-git-github/35869-cambios-en-github-de-master-a-main/>
+19
+
+Uso de GitHub
+
+<https://platzi.com/clases/1557-git-github/19942-uso-de-github/>
+20
+
+Cómo funcionan las llaves públicas y privadas
+
+<https://platzi.com/clases/1557-git-github/19949-como-funcionan-las-llaves-publicas-y-privadas/>
+21
+
+Configura tus llaves SSH en local
+
+<https://platzi.com/clases/1557-git-github/19950-configurar-llaves-ssh-en-github/>
+22
+
+Conexión a GitHub con SSH
+
+<https://platzi.com/clases/1557-git-github/19951-conexion-a-github-con-ssh/>
+23
+
+Tags y versiones en Git y GitHub
+
+<https://platzi.com/clases/1557-git-github/19952-tags-y-versiones-en-git-y-github/>
+24
+
+Manejo de ramas en GitHub
+
+<https://platzi.com/clases/1557-git-github/19953-manejo-de-ramas-en-github/>
+25
+
+Configurar múltiples colaboradores en un repositorio de GitHub
+
+<https://platzi.com/clases/1557-git-github/19954-configurar-multiples-colaboradores-en-un-repositor/>
+
+Flujos de trabajo profesionales
+
+26
+
+Flujo de trabajo profesional: Haciendo merge de ramas de desarrollo a master
+
+<https://platzi.com/clases/1557-git-github/19955-flujo-de-trabajo-profesional-haciendo-merge-de-ram/>
+27
+
+Flujo de trabajo profesional con Pull requests
+
+<https://platzi.com/clases/1557-git-github/19956-flujo-de-trabajo-profesional-con-pull-requests/>
+28
+
+Utilizando Pull Requests en GitHub
+
+<https://platzi.com/clases/1557-git-github/19957-utilizando-pull-requests-en-github/>
+29
+
+Creando un Fork, contribuyendo a un repositorio
+
+<https://platzi.com/clases/1557-git-github/19978-creando-un-fork-contribuyendo-a-un-repositorio/>
+30
+
+Haciendo deployment a un servidor
+
+<https://platzi.com/clases/1557-git-github/19958-haciendo-deployment-a-un-servidor/>
+31
+
+Hazme un pull request
+
+<https://platzi.com/clases/1557-git-github/19959-hazme-un-pull-request/>
+32
+
+Ignorar archivos en el repositorio con .gitignore
+
+<https://platzi.com/clases/1557-git-github/19960-ignorar-archivos-en-el-repositorio-con-gitignore/>
+33
+
+Readme.md es una excelente práctica
+
+<https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/>
+34
+
+Tu sitio web público con GitHub Pages
+
+<https://platzi.com/clases/1557-git-github/19976-tu-sitio-web-publico-con-github-pages/>
+
+Multiples entornos de trabajo en Git
+
+35
+
+Git Rebase: reorganizando el trabajo realizado
+
+<https://platzi.com/clases/1557-git-github/19975-git-rebase-reorganizando-el-trabajo-realizado/>
+36
+
+Git Stash: Guardar cambios en memoria y recuperarlos después
+
+<https://platzi.com/clases/1557-git-github/19984-stash/>
+37
+
+Git Clean: limpiar tu proyecto de archivos no deseados
+
+<https://platzi.com/clases/1557-git-github/19983-git-clean-limpiar-tu-proyecto-de-archivos-no-desea/>
+38
+
+Git cherry-pick: traer commits viejos al head de un branch
+
+<https://platzi.com/clases/1557-git-github/19982-git-cherry-pick-traer-commits-viejos-al-head-de-un/>
+
+Comandos de Git para casos de emergencia
+
+39
+
+Git Reset y Reflog: úsese en caso de emergencia
+
+<https://platzi.com/clases/1557-git-github/19988-git-reset-y-reflog-usese-en-caso-de-emergencia/>
+40
+
+Reconstruir commits en Git con amend
+
+<https://platzi.com/clases/1557-git-github/19981-reconstruir-commits-en-git-con-amend/>
+41
+
+Buscar en archivos y commits de Git con Grep y log
+
+<https://platzi.com/clases/1557-git-github/19987-buscar-en-archivos-y-commits-de-git-con-grep-y-log/>
+
+Bonus sobre Git y Github
+
+42
+
+Comandos y recursos colaborativos en Git y GitHub
+
+<https://platzi.com/clases/1557-git-github/19986-comandos-y-recursos-colaborativos-en-git-y-github/>
+43
+
+Tu futuro con Git y GitHub
+
+<https://platzi.com/clases/1557-git-github/19985-tu-futuro-con-git-y-github/>
+Video Player is loading.
+Play Video
+Pause
+
+Mute
+
+Loaded: 31.66%
+00:12
+02:25
+Current Time 2:25
+/
+Duration 10:51
+Remaining Time -8:26
+1x
+Playback Rate
+
+  * 2x
+  * 1.75x
+  * 1.5x
+  * 1.25x
+  * 1x, selected
+  * 0.85x
+  * 0.5x
+
+Subtitles
+
+  * subtitles settings, opens subtitles settings dialog
+  * subtitles off, selected
+
+    create bookmark
+
+    share bookmark
+
+    Server AServer BServer C
+    Autoplay
+    Autopause
+
+Picture-in-Picture
+
+Fullscreen
+
+This is a modal window.
+
+Beginning of dialog window. Escape will cancel and close the window.
+
+Text
+
+Color
+
+Transparency
+
+Background
+
+Color
+
+Transparency
+
+Window
+
+Color
+
+Transparency
+
+Font Size
+
+Text Edge Style
+
+Font Family
+
+Resetrestore all settings to the default valuesDone
+Close Modal Dialog
+
+End of dialog window.
+
+Curso Profesional de Git y GitHub
+
+
+    Curso Profesional de Git y GitHub
+
+<https://platzi.com/cursos/git-github/>Freddy Vega
+
+Freddy Vega
+
+Introducción a la terminal y línea de comandos
+
+Analizar cambios en los archivos de tu proyecto con Git
+
+Analizar cambios en los archivos de tu proyecto con Git
+
+
+  Crea un repositorio de Git y haz tu primer commit
+
+8/43
+
+Reportar un problema
+
+Recursos
+Marcadores
+
+Le indicaremos a Git que queremos crear un nuevo repositorio para
+utilizar su sistema de control de versiones. Solo debemos posicionarnos
+en la carpeta raíz de nuestro proyecto y ejecutar el comando:
+
+|git init
+
+|
+
+Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a
+tener una nueva carpeta oculta llamada |.git| con toda la base de datos
+con cambios atómicos en nuestro proyecto.
+
+Recuerda que Git está optimizado para trabajar en equipo, por lo tanto,
+debemos darle un poco de información sobre nosotros. No debemos hacerlo
+todas las veces que ejecutamos un comando, basta con ejecutar solo una
+sola vez los siguientes comandos con tu información:
+
+|git config --global user.email "tu@email.com"
+git config --global user.name "Tu Nombre"
+
+|
+
+Existen muchas otras configuraciones de Git que puedes encontrar
+ejecutando el comando |git config --list| (o solo |git config| para ver
+una explicación más detallada).
+
+Si quieres ver los archivos ocultos de una carpeta puedes habilitar la
+opción de |Vista > Mostrar u ocultar > Elementos ocultos| (en Windows) o
+ejecutar el comando |ls -a|.
+
+
+    Comandos para iniciar tu repositorio con Git
+
+  * git init: para inicializar el repositorio git y el staged
+  * git add nombre_del_archivo.txt: enviar el archivo al staged
+  * git status: ver el estado, si se requiere agregar al starget o si se
+    requiere commit
+  * git conf: para ver las posibles configuraciones
+  * git conf --list: para ver la lista de configuraciones hechas
+  * git conf --list --show-origin: para mostrar las configuraciones y
+    sus rutas
+  * git rm --cached nombre_del_archivo.txt: para eliminar el archivo del
+    staged(ram)
+  * git rm nombre_del_archivo.txt: para eliminar del repositorio
+
+Si por algún motivo te equivocaste en el nombre o email que configuraste
+al principio, lo puedes modificar de la siguiente manera:
+|git config --global --replace-all user.name “Aquí va tu nombre modificado”|
+O si lo deseas eliminar y añadir uno nuevo
+|git config --global --unset-all user.name :Elimina el nombre del usuario|
+|git config --global --add user.name “Aquí va tu nombre”|
+
+Aporte creado por: Brand Huatarongo
+
+
+        Archivos de la clase
+
+/
+
+Descargar todo
+
+<https://github.com/freddier/hyperblog/archive/9748f6531ec74adead2b2a4a03a55b7f6e379059.zip>
+
+historia.txt
+
+Descargar archivo
+ <https://static.platzi.com/media/tmp/class-files/github/hyperblog/hyperblog-9748f6531ec74adead2b2a4a03a55b7f6e379059/historia.txt>
+
+
+        Lecturas recomendadas
+
+Cambios en GitHub: de master a main
+
+https://platzi.com/blog/cambios-en-github-master-main/
+
+<https://platzi.com/blog/cambios-en-github-master-main/>
+Tu avatar
+
+Escribe tu aporte o pregunta
+
+Aportes 1068
+
+Preguntas 422
+
+Ordenar por:
+más votados
+
+nuevos
+
+sin responder
+
+Juan Luis Rojas León
+
+Juan Luis Rojas León
+
+hace 3 años <https://platzi.com/comentario/592511/>
+901
+
+¿No te funciona el comando /|code|/ en tu terminal?
+
+  * Abre Visual Studio Code
+  * Presiona /|cmd + shift + p|/ ó si estás en windows /|ctrl + shift + p|/
+  * Busca una opción que diga lo siguiente: /|Shell Command: Install
+    'code' command in $PATH|/
+  * Selecciónala
+
+Y listo, podrás utilizar dicho comando.
+
+Responder
+Luis Antonio Schmiel Paredes
+
+Luis Antonio Schmiel Paredes
+
+hace 3 años <https://platzi.com/comentario/592511/>
+29
+
+Eres un héroe sin capa! que buen dato gracias
+
+raimundohg
+
+raimundohg
+
+hace 3 años <https://platzi.com/comentario/592511/>
+13
+
+Hola! y en atom como sería?
+
+22 Respuestas <https://platzi.com/comentario/592511/>
+Andrés Gutierrez
+
+Andrés Gutierrez
+
+hace 3 años <https://platzi.com/comentario/621385/>
+724
+
+comandos de git aprendidos en esta clase:
+
+  *
+
+    *git init:* lo usamos para determinar la carpeta en la que vamos a
+    trabajar.
+
+  *
+
+    *git status:* lo usamos para saber si tenemos un archivo añadido o
+    borrado en nuestro proyecto, para saber en la rama en la que estamos
+    y si tenemos commits.
+
+  *
+
+    *git add:* es para añadir un archivo a nuestra rama seguidamente
+    ponemos entre comillas el nombre de nuestro archivo o poner un punto
+    para añadir todos los archios de nuestra carpeta.
+
+  *
+
+    *git rm:* lo usamos para borrar un archivo que hayamos añadido, para
+    eliminarlo por completo de nuestra rama usamos*git rm --cached*.
+
+  *
+
+    *git commit:* se usa para añadir un commit a nuestra rama, también
+    podemos ponerle un *-m* seguidamente ponemos entre comillas nuestro
+    ensaje.
+
+  *
+
+    *git config:* muestra configuraciones de git también podemos usar
+    *–list* para mostrar la configuración por defecto de nuestro git y
+    si añadimos --show-origin /inhales/ nos muestra las configuraciones
+    guardadas y su ubicación.
+
+  *
+
+    *git config --global user.name <http://user.name/>:* cambia de
+    manera global el nombre del usuario, seguidamente ponemos entre
+    comillas nuestro nombre.
+
+  *
+
+    *git config --global user.email:* cambia de manera global el email
+    del usuario, seguidamente ponemos entre comillas nuestro nombre.
+
+  *
+
+    *git log:* se usa para ver la historia de nuestros archivos, los
+    commits, el usuario que lo cambió, cuando se realizaron los cambios
+    etc. seguidamente ponemos el nombre de nuestro archivo.
+
+/inhales again/
+
+uuuuuuffff si que me costó escribir esto
+
+Ver más
+Responder
+andresanni
+
+andresanni
+
+hace 3 años <https://platzi.com/comentario/621385/>
+7
+
+gracias
+
+nca1478
+
+nca1478
+
+hace 3 años <https://platzi.com/comentario/621385/>
+5
+
+Gracias amigo, muy útil para ir recopilando una guía de consulta con
+todos los comandos.
+
+10 Respuestas <https://platzi.com/comentario/621385/>
+Jesús Joel Sarabia Félix
+
+Jesús Joel Sarabia Félix
+
+hace 2 años <https://platzi.com/comentario/1374533/>
+451
+
+Espero les sea de ayuda! 😄
+Crea unu repositorio en Git y haz tu primer commit (1).png
+
+Responder
+Fabricio Moreno
+
+Fabricio Moreno
+
+hace 2 años <https://platzi.com/comentario/1374533/>
+8
+
+Seguire todas tus infografias de cerca, estan geniales!!!
+
+Marco Aurelio López Márquez
+
+Marco Aurelio López Márquez
+
+hace 2 años <https://platzi.com/comentario/1374533/>
+4
+
+woow, increible
+
+10 Respuestas <https://platzi.com/comentario/1374533/>
+Jose Luis Mendoza Mogollón
+
+Jose Luis Mendoza Mogollón
+
+hace 2 años <https://platzi.com/comentario/1324542/>
+233
+
+Resumen.png
+
+Responder
+Pablo Perez Lee
+
+Pablo Perez Lee
+
+hace 2 años <https://platzi.com/comentario/1324542/>
+3
+
+Muchas gracias por el aporte.
+
+Elton Sedano Ticllasuca
+
+Elton Sedano Ticllasuca
+
+hace 2 años <https://platzi.com/comentario/1324542/>
+3
+
+Genial !
+
+9 Respuestas <https://platzi.com/comentario/1324542/>
+Luis Angel José Portillo Arévalo
+
+Luis Angel José Portillo Arévalo
+
+hace 3 años <https://platzi.com/comentario/809874/>
+118
+
+Freddy: La carpeta proyecto1
+
+Yo: no lo digas, no lo digas
+
+Yo:
+
+Responder
+Augusto Jose Suarez Flores
+
+Augusto Jose Suarez Flores
+
+hace 2 años <https://platzi.com/comentario/809874/>
+6
+
+creí que era el único que repetía esto una y otra vez en la clase
+
+HeyItsMe
+
+HeyItsMe
+
+hace 2 años <https://platzi.com/comentario/809874/>
+38
+
+1.png
+
+11 Respuestas <https://platzi.com/comentario/809874/>
+irvingsan
+
+irvingsan
+
+hace 3 años <https://platzi.com/comentario/592552/>
+90
+
+DATO
+
+Ese numero largo (40 caracteres) se llama SHA (Secure Hash Algorithm,
+Algoritmo de Hash Seguro) y es un ID unico que se crea para cada commit.
+
+Responder
+Luis Fernando Redondo Duron
+
+Luis Fernando Redondo Duron
+
+hace 2 años <https://platzi.com/comentario/592552/>
+2
+
+Gracias. Lo he utilizado mucho para autenticación y muchas otras cosas y
+nunca supe para que servía o que significaba.
+
+Juan Andres Garzon Garay
+
+Juan Andres Garzon Garay
+
+hace 2 años <https://platzi.com/comentario/1019223/>
+59
+
+Clase 10.png
+
+Responder
+Heider Rey Hernandez Arpushana
+
+Heider Rey Hernandez Arpushana
+
+hace 9 meses <https://platzi.com/comentario/1019223/>
+1
+
+Muchas gracias unos apuntes muy completo.
+
+OSCAR IVAN CHAMUCERO G.
+
+OSCAR IVAN CHAMUCERO G.
+
+hace 7 meses <https://platzi.com/comentario/1019223/>
+1
+
+Gracias por tus notas, las he visto en otros cursos y brutales, me
+permiten enfocarme mas en el curso que en las notas iii en que programa
+l ohaces_
+
+6 Respuestas <https://platzi.com/comentario/1019223/>
+Luis Salas
+
+Luis Salas
+
+hace 2 años <https://platzi.com/comentario/1100409/>
+51
+
+Quizás no sea muy estético XD, pero es un breve resumen de algunos de
+los comandos utilizados hasta el momento.
+Screenshot commands.png
+
+Responder
+Gabriel VB
+
+Gabriel VB
+
+hace 2 años <https://platzi.com/comentario/1100409/>
+2
+
+Genial
+
+Carlos Andrés Linares Ramos
+
+Carlos Andrés Linares Ramos
+
+hace 2 años <https://platzi.com/comentario/1100409/>
+2
+
+Gran aporte
+
+4 Respuestas <https://platzi.com/comentario/1100409/>
+devdanielgo
+
+devdanielgo
+
+hace 3 años <https://platzi.com/comentario/625090/>
+47
+
+Responder
+Alfonso Morán
+
+Alfonso Morán
+
+hace un año <https://platzi.com/comentario/625090/>
+3
+
+Vine a los comentario a buscar esto
+
+ricardocelis
+
+ricardocelis
+
+Profe Platzihace 3 años <https://platzi.com/comentario/591906/>
+34
+
+Primera versión de historia.txt aquí:
+https://github.com/freddier/hyperblog/tree/ab1f35ead47ab653bf2b680333cffee4409d48bb <https://github.com/freddier/hyperblog/tree/ab1f35ead47ab653bf2b680333cffee4409d48bb>
+
+Segunda versión aquí:
+https://github.com/freddier/hyperblog/tree/9748f6531ec74adead2b2a4a03a55b7f6e379059 <https://github.com/freddier/hyperblog/tree/9748f6531ec74adead2b2a4a03a55b7f6e379059>
+
+Responder
+hidalgolopezdaniel
+
+hidalgolopezdaniel
+
+hace 2 años <https://platzi.com/comentario/1226595/>
+32
+
+Buena frase: *“La Gente que NO sabe GIT es porque no sabe que hacer ante
+los Errores”*
+
+Responder
+Johan Mosquera
+
+Johan Mosquera
+
+hace 3 años <https://platzi.com/comentario/715089/>
+25
+
+Aquí un pequeño resumen de los comandos usados frecuentemente en *Git*
+
+Comandos en Git (La guía completa)
+<https://github.com/jocode/Getting-Started/blob/master/git_cmd.md>
+
+Responder
+Jhon Paul Montoya Rodriguez
+
+Jhon Paul Montoya Rodriguez
+
+hace 3 años <https://platzi.com/comentario/737575/>
+22
+
+dure media hora, pero lo logre ❤🤘.
+Cuando le das el comando
+$git config --list
+Git te pide… no se que te pide sale toda la configuracion y solicita
+algun comando, supongo, le das Q + : para que te saque y te deje seguir
+escribiendo comandos.
+Advertencia, no se si sea configuracion mia o qué, estoy haciendo el
+curso paso a paso con windows. Si te estancas, dale lo anterior y sigue xd
+
+Responder
+alan-saldivar
+
+alan-saldivar
+
+hace 3 años <https://platzi.com/comentario/836091/>
+20
+
+Cambios atómicos.
+
+Responder
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+hace 3 años <https://platzi.com/comentario/836091/>
+1
+
+jajaja esta imagen la recordaba cada vez que lo decía !!!
+
+Daniel Rodrìguez Miranda
+
+Daniel Rodrìguez Miranda
+
+hace 2 años <https://platzi.com/comentario/974947/>
+19
+
+• pwd: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
+• mkdir: Nos permite crear carpetas (por ejemplo, mkdir Carpeta-Importante).
+• touch: Nos permite crear archivos (por ejemplo, touch archivo.txt).
+• rm: Nos permite borrar un archivo o carpeta (por ejemplo, rm archivo.txt).
+Mucho cuidado con este comando, puedes borrar todo tu disco duro.
+• cat: Ver el contenido de un archivo (por ejemplo, cat nombre-archivo.txt).
+• ls: Nos permite cambiar ver los archivos de la carpeta donde estamos
+ahora mismo.
+Podemos usar uno o más argumentos para ver más información sobre estos
+archivos (los argumentos pueden ser – + el nombre del argumento o - +
+una sola letra o shortcut por cada argumento).
+
+-ls -a: Mostrar todos los archivos, incluso los ocultos.
+
+-ls -l: Ver todos los archivos como una lista.
+cd: Nos permite navegar entre carpetas.
+
+- cd /: Ir a la ruta principal:
+
+- cd o cd ~: Ir a la ruta de tu usuario
+
+- cd carpeta/subcarpeta: Navegar a una ruta dentro de la carpeta donde
+estamos ahora mismo.
+
+- cd … (cd + dos puntos): Regresar una carpeta hacia atrás.
+
+  * git init: Se crea staging en memoria ram y en el repositorio en HDD
+  * git add: trakea cambios en el staging
+  * commit: cambios en el repositorio
+  * checkout: atrae cambios de alguna rama
+  * git config --global user.email "tu@email.com <mailto:%22tu@email.com>"
+  * git config --global user.name <http://user.name/> “Tu Nombre”
+
+Ver más
+Responder
+Efraín Hernández García
+
+Efraín Hernández García
+
+hace 3 años <https://platzi.com/comentario/908140/>
+18
+
+Mi resumen de esta clase:
+
+|$ git init  //Inicia Git dentro de la carpeta raíz de nuestro proyecto
+$ git config // ver la configuración actual de git
+$ git config --global  user.email "tu@email.com" //Configurar tu email
+$ git --global user.name "Tu Nombre" //Configura tu nombre de usuario
+$ git code // Abre Vscode en Windows
+$ git status //Muestra el estado acual de la base de datos 
+$ git add _myfile.txt _//Agrega el archivo en Staging
+$ git add .// Sube todo los archivos de la carpeta actual
+$ git rm -- cached _myfile.txt_  // Elimina el archivo de la RAM sin eliminarlo de la carpeta
+$ git commit -m "Primer commit de este archivo" //Sube el archivo al repositorio
+$ git log _my file.txt_ //Puede ver todas las modificaciones del archivo asi como ver quien las hizo
+
+|
+
+Ver más
+Responder
+Juan Pablo Rodríguez Morales
+
+Juan Pablo Rodríguez Morales
+
+hace 3 años <https://platzi.com/comentario/908140/>
+5
+
+Una pequeña corrección: no es git code, no es un comando propio de git,
+es solo code /destino/, donde destino es la carpeta o archivo que se
+quiere abrir
+
+David Perez
+
+David Perez
+
+hace 3 años <https://platzi.com/comentario/655012/>
+16
+
+Si quieren crear una carpeta y al mismo tiempo inicializar un
+repositorio lo hacen con el comando
+
+|$ git init nombreCarpeta
+
+|
+
+Responder
+Brayam Teófilo Jiménez
+
+Brayam Teófilo Jiménez
+
+hace 3 años <https://platzi.com/comentario/655012/>
+1
+
+y cuando se trata de una carpeta con espacios?
+cree una carpeta con espacios y no la pude agregar.
+
+David Perez
+
+David Perez
+
+hace 3 años <https://platzi.com/comentario/655012/>
+5
+
+Para crear una carpeta con espacios desde la consola ejecutas el
+siguiente comando
+
+|mkdir "nombre de la carpeta con espacios"
+
+|
+
+Y si quieres crear una carpeta con repositorio ejecutas el siguiente comando
+
+|git init "Nombre de la carpeta con espacios"
+
+|
+
+Ver más <https://platzi.com/comentario/655012/>
+Jhon Carlos Colorado Angulo
+
+Jhon Carlos Colorado Angulo
+
+hace 3 años <https://platzi.com/comentario/595307/>
+15
+
+Cuando instala por primera vez git debes hacer una configuración básica
+y éstas son las siguientes:
+
+ 1.
+
+    git config --global user.name <http://user.name/> “Aquí va tu nombre”
+
+ 2.
+
+    git config --global user.email “Aquí tu correo electrónico”
+
+ 3.
+
+    git config --global color.ui true Sirve para colorear la mayor parte
+    de los resultados como por ejemplo git log.
+
+ 4.
+
+    git config --list
+
+Ahora si por algún motivo te equivocaste en el nombre o email lo puedes
+modificar de la siguiente manera:
+
+git config --global --replace-all user.name <http://user.name/> “Aquí va
+tu nombre modificado”
+
+O si lo deseas eliminar y añadir uno nuevo
+git config --global --unset-all user.name <http://user.name/> :Elimina
+el nombre del usuario
+git config --global --add user.name <http://user.name/> “Aquí va tu nombre”
+
+Ver más
+Responder
+John Steven Bernal Gonzalez
+
+John Steven Bernal Gonzalez
+
+hace 3 años <https://platzi.com/comentario/595307/>
+1
+
+buen resumen!
+
+Brand Huatarongo Huaman
+
+Brand Huatarongo Huaman
+
+hace 3 años <https://platzi.com/comentario/603090/>
+12
+
+git init -->Para inicializar el repositorio git y el staged
+git add nombre_del_archivo.txt → Enviar el archivo al staged
+git status -->ver el stado, si se requiere agregar al starget o si se
+requiere commit
+git conf -->para ver las posibles configuraciones
+git conf --list -->para ver la lista de configuraciones hechas
+git conf --list --show-origin -->para mostrar las configuraciones y sus
+rutas
+
+Cuando instala por primera vez git debes hacer una configuración básica
+y éstas son las siguientes:
+git config --global user.name <http://user.name/> “Aquí va tu nombre”
+git config --global user.email “Aquí tu correo electrónico”
+git config --global color.ui true Sirve para colorear la mayor parte de
+los resultados como por ejemplo git log.
+git config --list
+Ahora si por algún motivo te equivocaste en el nombre o email lo puedes
+modificar de la siguiente manera:
+git config --global --replace-all user.name <http://user.name/> “Aquí va
+tu nombre modificado”
+O si lo deseas eliminar y añadir uno nuevo
+git config --global --unset-all user.name <http://user.name/> :Elimina
+el nombre del usuario
+git config --global --add user.name <http://user.name/> “Aquí va tu nombre”
+
+git rm --cached nombre_del_archivo.txt → para eliminar el archivo del
+staged(ram)
+git rm nombre_del_archivo.txt → para eliminar del rep
+
+Ver más
+Responder
+Francisco Javier Antúnez Durán
+
+Francisco Javier Antúnez Durán
+
+hace 3 años <https://platzi.com/comentario/889370/>
+12
+
+Para quienes usan Max o linux “ls -la” tiene una version resumida
+utilizando “ll” (ele, ele) (>‿◠))
+
+Responder
+MGuedez
+
+MGuedez
+
+hace 2 años <https://platzi.com/comentario/1763516/>
+11
+
+Hola les dejo mis apuntes de la clase.
+Flujo de trabajo de Git en nuestro repositorio local.
+Flujo de git local.png
+
+Responder
+Josue Noha Valdivia
+
+Josue Noha Valdivia
+
+hace 2 años <https://platzi.com/comentario/1333127/>
+11
+
+Comandos git:
+*git init*: crea repositorio en carpeta actual: .git/
+*git status*: ver estado del proyecto
+*git add* <nombrearchivo> envia archivo a staging (nota: usando . puedes
+mandar toda la carpeta a staging)
+*git rm --cached <nombrearchivo>* remueve el archivo de staging
+*git commit -m <mensaje*>: envia el staging a repositorio con el mensaje
+*git config*: configuraciones de git
+*– list:* lista configuraciones basicas de git
+*–show-origin* : ubicacion de las configuraciones
+*– global user.name <http://user.name/> <nombre>* cambiar nombre del usuario
+*– global user.email <email>* cambiar email del usuario
+*git log <nombre archivo>*: historial de commits del archivo
+
+Nota
+
+  * para letras de acceso rapido a un comando
+    – para palabras comando
+
+Ver más
+Responder
+Santos Romero
+
+Santos Romero
+
+hace 3 años <https://platzi.com/comentario/853371/>
+10
+
+*$git init:* inicializa el repositorio
+*$ls -al:* lista los archivos ocultos creados después de inicializar
+repositorio
+*$git status:* verificar el estado del repositorio(ver si hay cambios o no)
+*$git add file.txt:* agrega el archivo a staging(RAM)
+*Nota:*/para sacar el file.txt de RAM, ejecutar **$git rm --cached
+file.txt/ rm(remover), indica remover de RAM, pero no eliminar archivo
+
+*$git config:* muestra todas las configuraciones que tiene git.
+
+Para conocer qué usuario hizo commits
+*$git config --global user.name <http://user.name/> “John Doe”*
+*$git config --global user.email "john.doe@platzi.com
+<mailto:%22john.doe@platzi.com>"*
+**$git log file.txt:**historia de los commits hechos
+
+*Tip:* /Es buena práctica dejar un mensaje a cada commit que se envía./
+
+/La práctica y el compartir conocimiento te convertirá en un profesional
+destacado/
+/*Latam para el mundo*/
+
+Ver más
+Responder
+Daniel Felipe Merchan Fuquen
+
+Daniel Felipe Merchan Fuquen
+
+hace 3 años <https://platzi.com/comentario/610198/>
+10
+
+Aquí les dejo mis apuntes:
+Crea un repositorio de Git y haz tu primer commit.JPG
+
+Responder
+Ederson Felipe Lopez Bolivar
+
+Ederson Felipe Lopez Bolivar
+
+hace 2 años <https://platzi.com/comentario/1999016/>
+10
+
+primer commit.PNG
+
+Responder
+Xiomara Elizabeth Gutierrez Henrriquez
+
+Xiomara Elizabeth Gutierrez Henrriquez
+
+hace 2 años <https://platzi.com/comentario/1999016/>
+1
+
+Muchas gracias por tu aporte!
+
+Obed Tzay
+
+Obed Tzay
+
+hace 2 años <https://platzi.com/comentario/1529228/>
+9
+
+git anotation3.png
+
+Responder
+Andrés Antonio Azuara Portillo
+
+Andrés Antonio Azuara Portillo
+
+hace 3 años <https://platzi.com/comentario/624033/>
+9
+
+Solamente les comento que en el comando git log existe el siguiente
+argumento:
+
+|git log --oneline
+
+|
+
+el cual mostrará la información más resumida, con cada commit en una
+sola línea
+
+Responder
+carlos_fullstack
+
+carlos_fullstack
+
+hace 3 años <https://platzi.com/comentario/624033/>
+1
+
+es la vieja confiable
+
+Jorge Leonardo Rincon Botache
+
+Jorge Leonardo Rincon Botache
+
+hace 2 años <https://platzi.com/comentario/2010365/>
+8
+
+Screenshot_2.png
+
+Por Buena practica ahora no se usa la rama (master) en cambio se usa la
+rama (main) en la documentación habla de que al momento de crear el
+repositorio desde la carpeta y en la linea de comando se pone :
+git branch -M main
+or
+git branch -M master main
+pero a mi no me permitió hacerlo así, asi que si alguien presenta el
+mismo problema, que hice yo…
+me fui a la carpeta oculta de .git ==> al archivo HEAD lo abri con block
+de notas y cambie la palabra master por main así queda:
+Screenshot_3.png
+
+le das atrás (cd …) y luego entras de nuevo a la carpeta del repo y ya
+veras los cambios de la palabra master por main
+
+Ver más
+Responder
+Daniel Valderrama Mendoza
+
+Daniel Valderrama Mendoza
+
+hace 2 años <https://platzi.com/comentario/940334/>
+8
+
+para los que quieran poner atom desdes el terminal 😄
+https://vortexbird.com/configuracion-para-abrir-atom-desde-la-consola-o-terminal-en-osx/ <https://vortexbird.com/configuracion-para-abrir-atom-desde-la-consola-o-terminal-en-osx/>
+
+Responder
+Julián Flor
+
+Julián Flor
+
+hace 2 años <https://platzi.com/comentario/1192942/>
+7
+
+Yo… *no tengo ni idea de que esta pasando* 😃
+
+Responder
+Julián Flor
+
+Julián Flor
+
+hace 2 años <https://platzi.com/comentario/1192942/>
+5
+
+He vuelto para animar a todo aquel, que como yo, estan perdidos: *No se
+rindan*
+Van a entenderlo y van a disfrutar el aprendizaje. Tambien se daran
+cuenta que es super potente estas herramientas. Un saludo 😂
+
+Christian Quispe Bonilla
+
+Christian Quispe Bonilla
+
+hace 2 años <https://platzi.com/comentario/965183/>
+7
+
+Comandos usados y aprendidos
+
+|   54  pwd
+   55  git init
+   56  code
+   57  git status
+   58  git add historia.txt
+   59  git status
+   60  git rm historia.txt
+   61  git status
+   62  git rm --cached historia.txt
+   63  git status
+   64  git add historia.txt
+   65  git status
+   66  git status
+   67  git config --list
+   68  git --list --show-origin
+   69  git config --global user.name "Xtian"
+   70  git config --global user.email "XtianCarlosQ@gmail.com"
+   71  git --list
+   72  git config
+   73  git config list
+   74  git config --list
+   75  git commit -m "Este es mi primera versión de mi historia"
+   76  git status
+   77  code historia.txt
+   78  git status
+   79  git add historia.txt
+   80  git status
+   81  git commit -m "agregando edad y gustos"
+   82  git status
+   83  git log historia.txt
+   84  history
+
+|
+
+Ver más
+Responder
+Mauricio Moreno Morales
+
+Mauricio Moreno Morales
+
+hace 2 años <https://platzi.com/comentario/1458912/>
+7
+
+*git init*: activa git
+*ls- al*: Muestra los archivos ocultos
+*code*: abrir visual studio code
+*git status*: muestra el estado del proyecto
+*git add*: manda el archivo a memoria
+*git rm*: elimina el archivo
+*git --cached*: elimina de memoria el archivo(quita el add)
+*git commit -m “mensaje”:* Envia los cambios a repositorio
+*git config*: configurar git
+*git config --list*:muestra la configuración
+*git config --list --origin:* muestra donde esta guardada la configuración
+*git config --global --user.name:* introduce nombre de usuario
+*git config --global --user.email:* introduce el correo
+*git log <archivo>*: muestra el historial de cambios
+
+Ver más
+Responder
+Sebastián Melo
+
+Sebastián Melo
+
+hace 3 años <https://platzi.com/comentario/873228/>
+7
+
+Comparto para repasar un poco los comandos.
+https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Terminal <https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Terminal>
+
+Responder
+Cesar Andres Urrea Gutierrez
+
+Cesar Andres Urrea Gutierrez
+
+hace 3 años <https://platzi.com/comentario/873228/>
+2
+
+¡Muchas gracias por el aporte!
+
+Manuel Armando Peche Cruz
+
+Manuel Armando Peche Cruz
+
+hace 3 años <https://platzi.com/comentario/873228/>
+2
+
+Muy buen dato Gracias
+
+Manuel Oviedo
+
+Manuel Oviedo
+
+hace 2 años <https://platzi.com/comentario/2146566/>
+6
+
+Hola hice un paso a paso de clase
+
+ 1. Creamos una carpeta llamada proyecto1
+ 2. Le damos el comando git init
+ 3. Le damos el comando ls -al y podemos ver las carpetas vacías y
+    comprobar que efectivamente tenemos la de git
+ 4. Abrimos visual studio code y guardamos un archivo de texto y lo
+    guardamos en la carpeta,
+ 5. Le damos git status y ahi vemos cuales son los archivos que aún no
+    se han trackeado
+ 6. Luego la damos git add para empezar a trackearlo
+ 7. Lo sacamos dandole git rm —cached
+
+** Nota
+Cached - Significa que esta en memoria RAM - no en GIT
+
+ 1. Le damos Commit y enviamos al repositorio
+ 2. Configuramos quien somos nosotros para poder determinar quien hizo que
+ 3. Le damos el siguiente comando Git config - para mostrar la configuración
+
+** Nota
+
+Git Config - nos da los comandos principales de GIT
+
+ 1. Le damos el comando GIT config - - list para poder ver la
+    configuración por defecto de nuestro Git - esto para ver el nombre y
+    correo del usuario
+ 2. Le damos el comando GIT config - - list - - origin y ahi sabemos
+    donde están guardadas las configuraciones - casos más avanzados
+ 3. Le damos GIT consigo - - global eso lo usamos para cambiar todos los
+    usuarios global
+ 4. Para cambiar el nombre en la configuración y el email le damos el
+    siguiente comando:
+ 5. Cambiamos el archivo historia.txt - eso lo podemos hacer con el
+    comando CODE
+ 6. Usamos el comando CAT historia.txt - para ver el contenido del
+    archivo - pero no puedo modificarlo
+ 7. Hacemos los cambios y guardamos - ahora cuando hacemos git status el
+    reconoce que se modifico el archivo
+ 8. Hacemos un nuevo commit - PERO NO PASA NADA! SIEMPRE LOS CAMBIOS
+    DEBEMOS AGREGARLOS CON EL BOTON DE ADD
+ 9. Hacemos el comando ADD . -> El punto al final lo que hace es que
+    agregamos todos los archivos de una vez
+10. Ahora si podemos entrar a hacer el commit
+11. Para ver toda la historia le damos git log historia.txt
+
+Ver más
+Responder
+Fernando Huamán Santamaria
+
+Fernando Huamán Santamaria
+
+hace 2 años <https://platzi.com/comentario/1201422/>
+6
+
+
+    *RESUMEN*
+
+------------------------------------------------------------------------
+
+ 1. Cuando estamos en la carpeta o directorio principal de nuestros
+    archivos podemos ejecutar el comando:
+
+|git init
+
+|
+
+ 1. Si queremos abrir *Visual Studio Code* desde el terminal *Git Bash*
+    podemos ejecutar el comando:
+
+|code
+
+|
+
+ 1. Si quermos ver si hay algun archivo que se tenga que añadir o nos
+    muestre que se a modificado un archivo etc. podemos ejecutar el comando:
+
+|git status
+
+|
+
+ 1. Si queremos que nuestro archivo viva temporalmente en la *memoria
+    RAM* podemos ejecutar el comando:
+
+|git add <nombre_archivo>
+
+|
+
+ 1. Si queremos mandarlo a nuestro repositorio enviando un mensaje,
+    ejecutamos
+
+|git commit -m "Mensaje"
+
+|
+
+ 1. Cuandi un archivo esta viviendo en la *RAM* y queremos retirarlo,
+    ejecutamos el comando:
+
+|git rm --cached <nombre_archivo>
+
+|
+
+Ver más
+Responder
+Oscar Enrique Ruiz Herrera
+
+Oscar Enrique Ruiz Herrera
+
+hace 3 años <https://platzi.com/comentario/645882/>
+6
+
+Para abrir un proyecto en sublime text desde la terminal, solo hay que
+ir desde la terminal a la carpeta que queremos abrir en sublime y
+escribir “subl .” (sin las comillas) y se abrirá sublime text con el
+proyecto
+subl.png
+
+Responder
+Kurt Otero
+
+Kurt Otero
+
+hace 2 años <https://platzi.com/comentario/1262639/>
+6
+
+git init: para crear el repositorio vacio de git
+code: para abir visual studio
+git status: para ver el estado de repositorio
+git add: ppara saber que hay cambios que tienen que ser enviados
+git rm: para borrar
+git rm --cached: para borrarlo de la memoria ram
+git commit: envia los cambios al repositorio
+git commit -m " ": mensaje
+git config: todas las opciones que tienen git
+git config --list: configuacion por defecto de tu git
+git config --list --show-origin: donde estan las configuraciones guardadas
+-: para letras
+–: para palabras
+git config --global user.name <http://user.name/> " ": para cambiar el
+nombre
+git config --global user.email " ": para cambiar el email
+git add .: para agregar a la carpeta actual
+git log: para ver todo lo que se ha hecho en el archivo
+
+Ver más
+Responder
+Miguel Angel Velazquez Romero
+
+Miguel Angel Velazquez Romero
+
+hace 2 años <https://platzi.com/comentario/1224016/>
+6
+
+|git add . (Agrega archivo a cache)
+git rm --cached (Borra cambio de la cache)
+git add .
+git commit -m “Comentario” (Guarda Cambios despues de un git add .)
+git status (revisa el estado del archivo)
+Comandos para identificarte: 
+git config --global user.email "tu@email.com"
+git config --global user.name "Tu Nombre" 
+git log (Para ver el historial de cambios)
+
+|
+
+Ver más
+Responder
+JESUS ALMIRCAR CASTELLANOS
+
+JESUS ALMIRCAR CASTELLANOS
+
+hace 3 años <https://platzi.com/comentario/680351/>
+6
+
+------------------------------------------------------------------------
+
+**Iniciar Git**
+
+------------------------------------------------------------------------
+
+git int
+
+------------------------------------------------------------------------
+
+**Iniciar Git**
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***/Configuración de Git/***
+
+------------------------------------------------------------------------
+
+git config
+git config --list
+git config --list --show origin
+git config --list --show-origin
+git config --global
+git config --global user.name <http://user.name/> “SC"
+git config --global user.email "jesuscastellanospaez@hotmail.com
+<mailto:%22jesuscastellanospaez@hotmail.com>”
+
+------------------------------------------------------------------------
+
+***/Configuración de Git/***
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***Agragar a la zona de preparación***
+
+------------------------------------------------------------------------
+
+git add Archivo.txt
+
+git add .
+
+------------------------------------------------------------------------
+
+***Agragar a la zona de preparación***
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+****/Ver estado/****
+
+------------------------------------------------------------------------
+
+git status
+
+------------------------------------------------------------------------
+
+****/Ver estado/****
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+********/Quitar de la zona de preparación/*****************
+
+------------------------------------------------------------------------
+
+git rm --cached archivo.txt (Quitar de la zona de preparación).
+
+------------------------------------------------------------------------
+
+********/Quitar de la zona de preparación/*****************
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***********Realizar commint***********
+
+------------------------------------------------------------------------
+
+git commit -m “Este es el pimer commit de este archivo”
+
+------------------------------------------------------------------------
+
+***********Realizar commint***********
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+***/Ver el historial de cambios del archivo/***
+
+------------------------------------------------------------------------
+
+git log
+git log Archivo.txt
+
+------------------------------------------------------------------------
+
+***/Ver el historial de cambios del archivo/***
+
+------------------------------------------------------------------------
+
+git show
+
+Ver más
+Responder
+Andres Julian GIRALDO BAHAMON
+
+Andres Julian GIRALDO BAHAMON
+
+hace 2 años <https://platzi.com/comentario/1079117/>
+6
+
+vamos yo puedo yo puedo , no me voy a rendir … ufff
+
+Responder
+Betty Rossana Jimenez Cedeño
+
+Betty Rossana Jimenez Cedeño
+
+hace 3 años <https://platzi.com/comentario/751594/>
+6
+
+En git el uso de (-)
+–: palabra
+-: un comado.
+
+Responder
+Jeaneth Tafur Huaman
+
+Jeaneth Tafur Huaman
+
+hace 4 meses <https://platzi.com/comentario/3474273/>
+5
+
+
+      Haciendo commit
+
+------------------------------------------------------------------------
+
+  * Nos situamos en la carpeta del proyecto |nuevo|
+  * Comando |git init| para iniciar un repositorio que guardara el
+    historial de cambios del proyecto.
+  * Automáticamente se crea una capeta oculta llamada |.git|
+  * Creamos los archivos |archivo.txt|
+  * Comando |git status| para ver los cambios que faltan agregar al
+    repositorio
+  * Comando |git add <archivo.txt>| para agregar un archivo en
+    especifico al stedsh
+  * Comando |git add .| para agregar todos los archivos disponibles al
+    stedsh
+  * Comando |git rm --cached archivo.txt| retira el archivo agregado del
+    stedsh
+  * Comando |git commit -m "Este es un mensaje"| para confirmar que
+    agregue los cambios al repositorio y va acompañado de un mensaje
+    (Colocar un mensaje es una buena practica para tener un seguimiento
+    de los cambios que se han realizado)
+
+
+      Configurar GIT
+
+------------------------------------------------------------------------
+
+Es importante configurar los datos para saber quien esta haciendo los
+cambios.
+Si no configuramos los datos nos enviará variables por defecto de windows
+
+  * Comando |git config| nos muestra todas las configuraciones
+    disponible de GIT
+  * Comando |git config --list| muestra la configuración por defecto o
+    información de los datos ya configurados.
+  * Comando |git config --list --show-origin| muestra el lugar (ruta)
+    donde esta guardada la configuración
+  * Comando |git config --global user.name "Tu nombre"| para cambiar el
+    nombre de usuario
+    (–global, se va a cambiar la configuración global de todos los usuarios)
+    – Comando |git config --global user.email "Tu correo"| para
+    configurar el correo del usuario
+
+
+      Haciendo cambios a los archivos
+
+------------------------------------------------------------------------
+
+  * Después de realizar cambios revisamos el status comando |git status|
+    y nos mostrara los archivos modificados
+  * Realizamos un “commit” para agregar los cambios al repositorio
+
+
+      Ver la historia de los archivos
+
+------------------------------------------------------------------------
+
+  * Comando |git log <archivo.txt>| Para ver los cambios
+      o Se muestra el nombre de quien hizo los cambios y cuando fueron
+        hechos
+      o Se muestra|tag| es el código interno para nombrar los cambios
+
+Ver más
+Responder
+Manuel Peñaloza
+
+Manuel Peñaloza
+
+hace 2 años <https://platzi.com/comentario/1919784/>
+5
+
+pasos para agregar la terminal de git en windows a visual Studio code
+
+1.-primero encontrar la ruta de la terminal
+variablep1.PNG
+2.-darle click derecho y darle en propiedades para copiar la dirección
+de git-bash.exe
+variablep2.PNG
+3.-entrar en configuracion de Visual Studio Code (CTRL+,) o desde la
+pestaña file en la parte de preferencias
+paso 1.PNG
+4.-buscar en configuracion: Integrated Automation Shell Windows y entrar
+paso2.PNG
+5.-añadir al archivo json lo sig ( “terminal.integrated.git”: ) y pegar
+la ruta de la terminal de git
+paso3 corregido.PNG
+listo asi de facil puedes abrir la terminal git-bash desde visual studio
+code 😄
+resultado.PNG
+
+Ver más
+Responder
+Dioxo
+
+Dioxo
+
+hace 3 años <https://platzi.com/comentario/604483/>
+5
+
+Algunos desarrolladores creen que porque el hash está compuesto por 40
+caracteres (160 bits) es *posible encontrar 2 commits con el mismo
+hash*. Sobre todo cuando se hacen miles de commits en proyectos tan
+grandes como linux (más de 4M de commits).
+Pero este *riesgo es realmente mínimo*, casi que insignificante. Un
+script a calculado la probabilidad de caer sobre una colisión a lo largo
+de la vida de un repositorio con más de 200 mil millones de commits.
+Esta probabilidad es inferior a /1.3x10e-26/.
+*Es más probable que un meteorito caiga sobre tu cabeza ( /1.96x10e-15/
+) que de encontrar un conflicto en los objetos de Git.*
+En pocas palabras, el riesgo de conflicto es extremadamente
+insignificante que no debería tenerse en consideración.
+
+Ver más
+Responder
+SoyCaballero
+
+SoyCaballero
+
+hace 2 años <https://platzi.com/comentario/1315686/>
+5
+
+Resumen de la clase en términos de los comandos:
+
+|$git init (crea el repositorio)
+$git  status (muestra el estado de la carpeta)
+$git  add _archivo_ (agrega a archivo a Staging)
+git rm --cached _archivo_ (Elimina al archivo de Staging)
+$git commit (guarda los cambios en la base de datos)
+$git add . (agrega a staging todos los archivos de la carpeta)
+$git  log (muestra la historia en cuanto a commits del proyecto)
+$git  log _archivo_ (muestra la historia en cuanto a commits de archivo)
+
+|
+
+En log encontraremos una serie de caractéres extraños, este es el tag
+del commit, su nombre de referencia. El commit que contenga
+(Head->master) será el más reciente.
+
+Espero que les sirva.
+
+Ver más
+Responder
+hmogollan
+
+hmogollan
+
+hace 2 años <https://platzi.com/comentario/1140450/>
+5
+
+Configurar git
+
+Ver configuraciones de git
+
+Git config
+
+Ver configuración por defecto en forma de lista
+
+Git config --list
+
+Creando repositorio
+
+Iniciar repositorio.
+
+Git init
+
+Agregar archivo a estado de staging (estado temporal)
+
+Git add index.html
+
+Agregar todos los archivos
+
+Git add .
+
+Remover o sacar de staging
+
+Git rm index.html
+
+Para borrar
+
+Git rm –cached index.html
+
+Para ver el status del proyecto
+
+Git status
+
+Agregar el archivo al repositorio “-m” para escribir un mensaje
+
+Git commit -m “este es el primer commit”
+
+Trae los cambios a la carpeta
+
+Checkout
+
+Lanzar vs code desde la terminal
+
+Code
+
+Abir un archivo en en vs code
+
+Code index.php
+
+Para ver el contenido de un archivo utilizo
+
+Cat index.html
+
+Para ver la historia de un archivo
+
+Git log index.php
+
+Ver más
+Responder
+Francisco Javier Suarez Verdugo
+
+Francisco Javier Suarez Verdugo
+
+hace 3 años <https://platzi.com/comentario/845105/>
+5
+
+Gracias por el vídeo, Freedy. Continuo aprendiendo cosas nuevas, al
+principio del vídeo cuando explico lo relacionado al commit, Git me
+permitió hacerlo sin ningún problema y después me di cuenta que un
+usuario y correo ya se habían asignado, supongo que esto se debía a la
+configuración que se creo cuando use GitHub de escritorio. Acá dejo una
+imagen:
+
+ImagenGit.PNG
+
+Responder
+Francisco Santopietro
+
+Francisco Santopietro
+
+hace 3 años <https://platzi.com/comentario/845105/>
+1
+
+Me paso exactamente lo mismo. Supongo que GitHub automatiza el registro
+
+juanvalero252
+
+juanvalero252
+
+hace 3 años <https://platzi.com/comentario/918620/>
+5
+
+Saludos Freddy. Me encantan todos tus cursos pero quisiera decir algo en
+particular con respecto a este, yo vi el curso pasado de GiT con
+Leonidas y de verdad fue mi mejor experiencia dentro de Platzi y creo
+que hay varias fallas aqui(con mucho respeto) creo que si queremos
+empezar algun proyecto en git debemos empezar por las bases y creo que
+una de las primeras clases es detallar la importancia del |git config
+--global| y la importancia de este. preparar bien nuestro entorno y
+empezar a trabajar. creo que mas alla de comandos de git como |add| |rm|
+|status| |log| primero deberiamos aprender a crear desde el bash,
+comandos como touch, mkdir y ver un poco mas a detalle… todo lo digo con
+animos de mejorar y por que comparando este curso con el de Leonidas el
+anterior en 10 clases ya te atrapa el curso y no te deja salir… en
+cambio este es como que sabes que estas viendo una buen película pero
+todavía sientes la intriga que no sabes que pasara… espero que puedas
+tomar mi opinión de la mejor forma por que tenia necesidad de decirla
+
+Ver más
+Responder
+Carlos Mario
+
+Carlos Mario
+
+hace 3 años <https://platzi.com/comentario/918620/>
+5
+
+Saludos juan, en el primer vídeo del modulo 2 Freddy explica de manera
+clara y sencilla como configurar el entorno de trabajo de git (git
+config y sus flags), ademas, justo antes del modulo 2 hace una
+introducción a la linea de comandos muy completa.
+
+También tome el curso anterior de Leonidas y la verdad no me gusta como
+profesor, para mi opinión este curso de Freddy es 10 veces mejor que el
+anterior pero, para gusto los colores.
+
+Que tengas buen día y nunca paremos de aprender.
+
+Ver más <https://platzi.com/comentario/918620/>
+DAVID EDUARDO BAEZ SANCHEZ
+
+DAVID EDUARDO BAEZ SANCHEZ
+
+hace 2 años <https://platzi.com/comentario/996359/>
+5
+
+Entendido
+
+|git init
+git config --list
+git config --list --show-origin 
+git config --global user.name "DBZ"
+git config --global user.email "dbzn@gmail.com"
+
+git status
+git add historia.txt
+git rm historia.txt
+git rm --cached historia.txt
+git commit -m "Este es el primer commit de este archivo"
+git add ,
+git commit -m "Cambio para reflejar la edad correcta"
+git log historia.txt
+
+|
+
+Ver más
+Responder
+Jose Luis Barbosa Cepeda
+
+Jose Luis Barbosa Cepeda
+
+hace 2 años <https://platzi.com/comentario/1836534/>
+5
+
+*AQUI MIS APUNTES DE ESTA CLASE, ESPERO Y LES SIRVAN 😄*
+Para crear un repositorio tienes que decir donde esta la carpeta central
+de tus archivos *(* por ejemplo normalmente cuando desarrollas una
+pagina web es donde esta un archivo index.html *)*
+*git init* Es para inicializar un repositorio.
+*git status* Es para saber el estado del proyecto en ese momento.
+*git add* Es para incluir los archivos en el stage area y empezar a
+hacer un seguimiento *(*tracked*)*.
+*git rm --cached* Sirve para quitar algún archivo de tu base de datos de
+git, básicamente quita un archivo de el stage area *(*untracked*)*.
+*git commit* Es el que envia los cambios al repositorio, es posible
+hacer commit y ya pero esto es una *mala practica!*, lo correcto es
+dejar un mensaje antes de enviarlo al repositorio: *git commit -m “Tu
+mensaje”*.
+*git config* Sirve para configurar git.
+*git config --list* Podremos ver la configuración por defecto de tu git,
+así como las cosas que te faltan configurar.
+*git config --list --show-origin* Para ver donde están las
+configuraciones guardadas *(*casos avanzados*)*.
+*git config --global user. name “Tu nombre”* Sirve para cambiar tu
+nombre de usuario en git.
+*git config --global user. email “Tucorreo @correo. com”* Sirve para
+cambiar tu email en git.
+*git log* Para ver la historia de cambios de tu archivo.
+*HEAD* Es la versión mas actual o la que esta en cabecera.
+
+Ver más
+Responder
+David Rosas
+
+David Rosas
+
+hace un año <https://platzi.com/comentario/2266700/>
+5
+
+Si olvidan poner mensaje al commit y entran al editor de texto *vim*,
+solo se oprime *i* para comenzar a escribir, Escape para salir del modo
+edición, *:w* para guardar y *:q* para salir.
+
+Responder
+user_deleted_1572741
+
+user_deleted_1572741
+
+hace un año <https://platzi.com/comentario/2309650/>
+5
+
+⚙ *git config* permite definir valores de *configuración* de *Git* a
+nivel de un proyecto *global* o** local**.
+
+Responder
+oteka21
+
+oteka21
+
+hace 3 años <https://platzi.com/comentario/599412/>
+5
+
+Una buena practica en platzi seria por cada curso crear un archivo
+apuntes.txt e e irlo trackeando en git en conjunto con los archivos del
+curso
+
+Responder
+Cristian Andres Escobar Canizales
+
+Cristian Andres Escobar Canizales
+
+hace un año <https://platzi.com/comentario/2659389/>
+4
+
+Git Comandos_Página_1.jpgGit Comandos_Página_2.jpgGit Comandos_Página_3.jpg
+
+Ver más
+Responder
+Henry Alexander Velásquez Rosas
+
+Henry Alexander Velásquez Rosas
+
+hace un año <https://platzi.com/comentario/2833164/>
+4
+
+Mis apuntes :3
+8. Crea un repositorio de Git y haz tu primer commit.png
+
+Responder
+Alexander Aya Aponte
+
+Alexander Aya Aponte
+
+hace 3 años <https://platzi.com/comentario/781265/>
+4
+
+Hola a todos yo tenía un lio, no se ejecutaba visual studio code desde
+git bash, hice la configuración agregando de la ruta y nada, el tema es
+que yo instalé Visual Studio Code - Insiders y para ejecutarlo hay que
+invocarlo como (Code-Insiders) espero les ayude este pequeño aporte😎👍
+
+Responder
+Johny Jiménez
+
+Johny Jiménez
+
+hace 2 años <https://platzi.com/comentario/1172309/>
+4
+
+A-tó-mi-co, Se dice a-tó-mi-co 😄
+
+Responder
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+JUAN SEBASTIAN RODRIGUEZ JIMENEZ
+
+hace 3 años <https://platzi.com/comentario/841880/>
+4
+
+Con el comando *git config --unset* puedes borrar la propiedad que
+quieras borrar de la configuración.
+Por ejemplo:
+git config --global --unset color.ui
+git config --global --unset core.editor
+recuerda esto modifica el entorno global, es decir aplica para todos tus
+repositorios, para hacerlo de forma local (solo en el repositorio
+actual) agrega --local antes del --unset.
+
+Tip: Estas configuraciones se encuentran en archivos de texto que igual
+puedes editar de forma directa si así lo deseas, sólo ten mucho cuidad
+podrías romper algo
+
+Rutas (Mac y Linux):
+
+  * Configuración global: ~/.gitconfig
+  * Configuración local: ./.git/config
+
+Ver más
+Responder
+EdwardMSep
+
+EdwardMSep
+
+hace 2 años <https://platzi.com/comentario/1019900/>
+4
+
+Los comandos a utilizar basicos son los siguiente:
+
+-git init : Para iniciar el repositorio.
+-git add: para agregar a cached los cambios realizados a tu archivo.
+-git commit: para agregar los cambios al repositorio (Es importante
+utilizar "git commit -m “MENSAJE” para agregrar un mensaje al agregar
+cambios al repositorio.
+-git log: para verificar las diferentes versiones y cambios que le haz
+realizado a tu documentos (verificar commits).
+-git config --global user.name <http://user.name/>: para cambiar el nombre.
+-git config global user.email: para cambiar el email
+
+Ver más
+Responder
+Cristian Fabian Tovar
+
+Cristian Fabian Tovar
+
+hace 3 años <https://platzi.com/comentario/593771/>
+4
+
+Si ingresan en la terminal:
+
+|git config --global alias.superlog "log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+
+|
+
+cada que ejecuten git superlog se ve más cómodo
+
+Ver más
+Responder
+Angie Garcia
+
+Angie Garcia
+
+hace 2 años <https://platzi.com/comentario/1175031/>
+4
+
+muy bueno!! yo realice los cambios en el archivo desde vim, para aplicar
+lo visto en la clase de linea de comandos, igualmente con la creación de
+ese mismo
+Captura de pantalla de 2020-04-22 20-03-12.pngCaptura de pantalla de
+2020-04-22 20-03-21.png
+
+Responder
+Exal Rodríguez
+
+Exal Rodríguez
+
+hace 2 años <https://platzi.com/comentario/1175031/>
+1
+
+Es usted una crack!
+
+Jose Ignacio Naranjo Guerra
+
+Jose Ignacio Naranjo Guerra
+
+hace 2 años <https://platzi.com/comentario/1023893/>
+4
+
+Una forma de salir de la ventana de comando cuando se olvide poner el
+mensaje al lanzar el commit es:
+
+Dar clic en ESC¨y después escribir :wq
+wq.PNG
+
+Responder
+Ivan Agustin
+
+Ivan Agustin
+
+hace 2 años <https://platzi.com/comentario/1023893/>
+1
+
+Me paso esto y no lo puedo arreglar, tienes idea?
+
+Jorge Dimitrios Gianareas Tsimogianis
+
+Jorge Dimitrios Gianareas Tsimogianis
+
+hace 2 años <https://platzi.com/comentario/964141/>
+4
+
+Recuerda que Git está optimizado para trabajar en equipo, por lo tanto,
+debemos darle un poco de información sobre nosotros. No debemos hacerlo
+todas las veces que ejecutamos un comando, basta con ejecutar solo una
+sola vez los siguientes comandos con tu información:
+
+git config --global user.email "tu@email.com <mailto:%22tu@email.com>"
+git config --global user.name <http://user.name/> “Tu Nombre”
+
+Responder
+Yorfrank Bastidas
+
+Yorfrank Bastidas
+
+hace un año <https://platzi.com/comentario/2178581/>
+4
+
+
+    Crea un repositorio de Git y haz tu primer commit
+
+------------------------------------------------------------------------
+
+  * Al utilizar el comando /git init/ se crea la estructura de carpetas
+    utilizada por git para el repositorio
+      o La carpeta se llama .git y es una carpeta oculta, podemos verla
+        con el comando /ls -al/
+  * Al crear un archivo podemos ver con /git status/ en que estado se
+    encuentran dichos archivos y git nos indica si aún no se ha agregado
+    con /git add/ o si ya están en la /staging area/
+  * *|git rm —cached <archivo>|:* /cached/ significa que está en memoria
+    ram (/staging)/, sirve para quitar los cambios añadidos con /git
+    add/ del /staging/
+  * *|git config|:* muestra todos los posibles usos del comando para
+    configurar git
+      o *|--list|:* muestra una lista con la configuración actual
+      o *|--list --show-origin|:* muestra donde están guardados los
+        archivos de configuración (usuarios avanzados)
+      o *|--global user.name "<usuario>"|:* configura un nombre de
+        usuario en git para ser usado en todos los repositorios
+      o *|--global user.email "<correo>"|:* configura el correo del
+        usuario para ser usado en todos los repositorios
+
+Es necesario configurar el nombre de usuario y el correo en git para
+poder realizar commits
+
+  * *|git log <archivo>|:* muestra un historial de todos los commits
+    realizados en dicho archivo
+
+Ver más
+Responder
+Agustin Villegas Quintero
+
+Agustin Villegas Quintero
+
+hace 2 años <https://platzi.com/comentario/1941900/>
+4
+
+  * Para crear un repositorio usamos el comando
+
+|<$git init>
+
+|
+
+Una vez ejecutado el comando, podemos verificar la creción del
+repositorio solicitando a la consola que nos muestre el contenido del
+directorio, incluido los archivos ocultos, usando el comando
+
+|<$ls -al>
+
+|
+
+  * Para visualizar el estatus del proyecto utilzamos el comando
+
+|<$git status>
+
+|
+
+  * Para cambiar el estado de un archivo de “untracked” a “tracked”
+    usando el comando
+
+|<$git add archivo.txt>
+
+|
+
+  * Para cambiar del estado actual al estado anterior un archivo usamos
+    el comando
+
+|<$git rm --cached archivo.txt>
+
+|
+
+  * Para mover el archivo al repositorio usamos commit, una buena
+    práctica es dejar un comentario para inidicar los cambios
+    realizados, el comentario se agrega utilizando un argumento especial
+    (*-m*), y el comentario debe ir entre comillas
+
+|<$git commit -m "Comentario">
+
+|
+
+Para poder ejecutar un commit correctamente, es necesario completar las
+configuraciones de usuario de git
+
+  * Para visualizar los comandos disponibles en la configuración de git
+    utilizamos
+
+|<$git config>
+
+|
+
+  * Para visualizar las configuraciones actuales usamos
+
+|<$git config --list>
+
+|
+
+  * Para visualizar la ubicación de las configuraciones de git utilizamos
+
+|<$git config --list --show-origin>
+
+|
+
+  * Para cambiar el usuario de git utilizamos
+
+|<$git config --global user.name "Nombre de Usuario">
+
+|
+
+El nombre de usuario que se usará debe estar dentro de comillas
+
+  * Para cambiar el correo electrónico del usuario de git utilzamos
+
+|<$git config --global user.email "Correo electrónico">
+
+|
+
+El correo electrónico que se usará debe estar dentro de comillas, en
+ambos casos la palabra *–global* indica el cambio en todos los usuarios
+globales de git
+
+  * Para visualizar el contenido de un archivo desde la consola usamos
+    el comando
+
+|<$cat archivo.txt>
+
+|
+
+  * Para registrar correctamente los cambios realizados dentro de un
+    archivo en git y que estos se vean reflejados en el repositorio es
+    necesario seguir ejecutar los comando en el siguiente orden
+
+|<$git add arcihvo.txt
+$git commit -m "comentarios de cambios">
+
+|
+
+  * En caso de que queramos ejecutar un comando a todos el contenido de
+    un directorio, podemos utilizar el signo punto (*.*), ya que en git
+    punto es sinónimo del directorio actual en el que estemos ubicados
+
+|<$git add .>
+
+|
+
+  * Para revisar el historial de cambios de un archivo en git, usamos el
+    comando
+
+|<$git log>
+
+|
+
+*Notas adicionales*
+
+  * En git el uso de un solo guión (*-*) indica el uso de un comando de
+    acceso rápido
+
+|<$-al
+$-m>
+
+|
+
+  * En git el uso de un dos guiones (*–*) indica el uso de palabras
+
+|<$git config --global user.name
+$git config --list>
+
+|
+
+  * El uso de la palabra *–cached* hace referencia a algo ubicado en la
+    memoria RAM
+
+Ver más
+Responder
+Lautaro Cabral
+
+Lautaro Cabral
+
+hace 2 años <https://platzi.com/comentario/1045385/>
+4
+
+al fin una explicación sobre lo que significa un guión y dos guiones
+
+Responder
+Beicker Jesus Zambrano Escalona
+
+Beicker Jesus Zambrano Escalona
+
+hace 3 años <https://platzi.com/comentario/601645/>
+4
+
+Aquí les dejo un post <https://tomasdelvechio.github.io/old/440/> sobre
+cómo escribir el comentario para su commit.
+
+Responder
+Yefreilee Danny Samuel Parra
+
+Yefreilee Danny Samuel Parra
+
+hace 22 días <https://platzi.com/comentario/3749618/>
+3
+
+Si alguien hace la cagada que hice yo, de escribir git commit sin los
+comentarios, esto se guarda y bueno la forma de borrar esto es primero
+hacer un git status y debemos tipear git rm --cached historia.txt y este
+te dira el siguiente mensaje $ git status
+On branch master
+Changes to be committed:
+(use “git restore --staged <file>…” to unstage)
+deleted: historia.txt
+
+Una vez que haga eso volvemos a hacer el git add historia.txt
+y despues hacemos el git add historia.txt
+
+y ya ahora si se creara correctamente, Saludos!
+
+Ver más
+Responder
+Miguel Ángel Ramón Candia
+
+Miguel Ángel Ramón Candia
+
+hace 5 meses <https://platzi.com/comentario/3377011/>
+3
+
+Holaaaa a todos les dejo mis apuntes 😄
+
+
+      Datos✍🏻
+
+
+        📌 Cambios atómicos
+
+    Significa que cada cambio se guarda de manera independiente
+
+
+      Notas 📒
+
+
+        ✏️ Crear un repositorio
+
+    Ir a la carpeta del proyecto, por ejemplo en el desarrollo web es
+    donde está el archivo index.html.
+    Estando en ella se ejecuta |git init| . Esto crea una carpeta oculta
+    llamada *.git* adentro de ella está la base de datos que registrará
+    todos los cambios atómicos.
+
+
+        ✏️ Abrir VSC desde la terminal
+
+    Ejecutar el comando |code|
+
+    También se pude colocar el nombre del archivo a crear, por ejemplo:
+    |code miHistoria.txt|
+
+    Del mismo modo si hay un archivo que deseas abrir con VSC ejecuta
+    |code nombreArchivo|
+
+
+        ✏️ Añadir/quitar archivos a staging area
+
+    Añadir con |git add nombreArchivo| o |git add .| añadiendo todo lo
+    de la carpeta actual.
+
+    Para quitar un archivo se ejecuta |git rm --cached archivo| o para
+    quitar todos |git rm -r --cached *| (el atributo -r se coloca para
+    aquellos archivos que estén en subcarpetas)
+
+
+        ✏️ Configurar git para commits
+
+    Con |git config| se imprime las opciones de configuración que tiene git
+
+    Con |git config --list| se imprime las opciones actuales de git. 💡
+    Si te muestra la con otra interfaz a la de la clase, ejecutar de
+    este modo |git config --list | cat|
+
+    Con |git config --list --show-origin| se muestra la ruta de donde se
+    encuentran los archivos de configuración.
+
+    Para agregar nuestro nombre y correo (y así poder ejecutar un
+    commit) se ejecuta: |git config --global user.name "Tu nombre"| y
+    |git config --global user.email "Tu correo"|
+
+
+        ✏️ Ejecutar commit
+
+    Se ejecuta |git commit -m "Mensaje relevante"|
+
+
+        ✏️ Ver historial de commits
+
+    Se ejecuta |git log|
+
+    Cada commit muestra esta información:
+
+2022-02-21_11h08_11.png
+
+Ver más
+Responder
+Gerardo Javier Ramírez Gómez
+
+Gerardo Javier Ramírez Gómez
+
+hace 2 años <https://platzi.com/comentario/1984511/>
+3
+
+Les comparto mis notas de la clase
+Clase repo y commit.png
+
+Responder
+Jorge Eliecer Barcasnegras Deavila
+
+Jorge Eliecer Barcasnegras Deavila
+
+hace 2 años <https://platzi.com/comentario/1984511/>
+2
+
+¿ Utilizas algun programa en particular para hacer esas notas?, están
+geniales.
+
+Gerardo Javier Ramírez Gómez
+
+Gerardo Javier Ramírez Gómez
+
+hace 2 años <https://platzi.com/comentario/1984511/>
+2
+
+Utilizo canva: https://www.canva.com/ <https://www.canva.com/>
+
+3 Respuestas <https://platzi.com/comentario/1984511/>
+Sebastián Ospino
+
+Sebastián Ospino
+
+hace 5 meses <https://platzi.com/comentario/3397461/>
+3
+
+Hasta ahora esto es lo que yo sé de git, ¡de aquí en adelante todo será
+nuevo!
+
+Responder
+David Díaz
+
+David Díaz
+
+hace 10 meses <https://platzi.com/comentario/2897370/>
+3
+
+A veces podremos tener algún tipo de archivo que no quieres que Git
+añada automáticamente o más aún, que ni siquiera quieras que aparezca
+como no rastreado. Este suele ser el caso de archivos generados
+automáticamente como trazas o archivos creados por tu sistema de
+compilación. En estos casos, puedes crear un archivo llamado
+*.gitignore* que liste patrones a considerar. Este es un ejemplo de un
+archivo *.gitignore*:
+
+|$ cat .gitignore
+  *.[oa]
+  *~
+
+|
+
+La primera línea le indica a Git que ignore cualquier archivo que
+termine en “.o” o “.a” - archivos de objeto o librerías que pueden ser
+producto de compilar tu código. La segunda línea le indica a Git que
+ignore todos los archivos que terminen con una tilde (~), la cual es
+usada por varios editores de texto como Emacs para marcar archivos
+temporales.
+
+Ver más
+Responder
+José Ramos Benhumea
+
+José Ramos Benhumea
+
+hace 7 meses <https://platzi.com/comentario/3153195/>
+3
+
+Según el libro progit un commit es la forma en que Git confirma que todo
+lo que se haya rastreado o añadido con git add . va a ser escrito en la
+base de datos del proyecto git.
+Responder
+Andres Miguel Avalos Mendoza
+
+Andres Miguel Avalos Mendoza
+
+hace 7 meses <https://platzi.com/comentario/3144108/>
+3
+
+*Para empezar tenemos que saber que es un repositorio y un commit.*
+ㅤㅤ
+Un repositorio es una base de datos de nuestro proyectos, es decir el
+conjunto de datos que conforman el proyecto.
+ㅤㅤㅤㅤ
+Un commit son los cambios en uno o mas archivos en nuestro proyecto.
+ㅤㅤ
+Para crear un repositorio vamos usar |git init|.
+ㅤㅤㅤㅤㅤㅤ
+Para añadir archivos a nuestro proyecto vamos a usar |git add|.
+ㅤㅤ
+Para ver el estado de nuestro repositorio usamos |git status|.
+ㅤㅤㅤㅤ
+Cuando hagamos un cambio en nuestros archivos usamos |git add
+<nombre_del_archivo>| para que git pueda registrar sus cambios.
+ㅤㅤ
+Luego para hacer el commit usaremos |git commit -m "<Descripción>"| y se
+añadirá.
+
+Ver más
+Responder
+Juan Guerrero
+
+Juan Guerrero
+
+hace 9 meses <https://platzi.com/comentario/2926567/>
+3
+
+A la hora de ejecutar
+
+|git status
+
+|
+
+me daba el error /fatal: not a git repository (or any of the parent
+directories): .git/ .
+
+Lo pude solucionar con ejecutando el comando
+
+|git init
+
+|
+
+Espero que les funcione.
+
+Ver más
+Responder
+Omar Flores
+
+Omar Flores
+
+hace 6 meses <https://platzi.com/comentario/3215473/>
+3
+
+Hola, si tienen problema con los directorios que tienen espacios, por
+ejemplo: "Curso de Platzi"
+lo que pueden hacer para entrar a este directorio con el git Bash es
+hacer lo siguiente:
+ejemplo: cd ‘Curso de Platzi’ y listo, el uso de las comillas les
+ayudara a entrar en archivos que tengan espacios.
+
+Responder
+Romen Ter Gazarian
+
+Romen Ter Gazarian
+
+hace 5 meses <https://platzi.com/comentario/3351689/>
+3
+
+Freddy, el unico profesor en el cual, ademas de no aumentar la velocidad
+del video, seguramente retrocediste unas 20 veces, lo cual el video de
+10 minutos se te hizo de 30
+
+Responder
+Francisco Parejo
+
+Francisco Parejo
+
+hace 6 meses <https://platzi.com/comentario/3269653/>
+3
+
+Buenas. A mí no me funciona a la hora de hacer commit.
+
+Esto es lo que me sale una vez lanzo el comando commit más el mensaje
+editable.
+
+$ git commit -m ´´Este es primer commit de este archivo´´
+error: pathspec ‘es’ did not match any file(s) known to git
+error: pathspec ‘primer’ did not match any file(s) known to git
+error: pathspec ‘commit’ did not match any file(s) known to git
+error: pathspec ‘de’ did not match any file(s) known to git
+error: pathspec ‘este’ did not match any file(s) known to git
+error: pathspec ‘archivo´´’ did not match any file(s) known to git
+
+Ver más
+Responder
+jenny katherine arevalo rivera
+
+jenny katherine arevalo rivera
+
+hace 6 meses <https://platzi.com/comentario/3210426/>
+3
+
+Los comandos básicos para guardar un archivo en nuestro repositorio son:
+
+ 1. *Git add*: este comando puede ir acompañado por el nombre del
+    archivo o por .(punto), este indica que va a agregar toda la
+    información del repositorio en el que nos encontramos.
+ 2. *Git status*: este comando permite ver el estado en el que se
+    encuentra la información que vamos a agregar, cuando esta en color
+    verde significa que ya esta listo para subir
+ 3. *Git commit*: este comando por buenas practicas se sugiere que vaya
+    acompañado por un mensaje, esto agregando -m “/mensaje/”, de lo
+    contrario puedes solo colocar git commit y este te hará el commit
+    sin problemas pero al revisar no sabrás de que se trata
+ 4. *Git push*: este comando va acompañado de la rama en la que vamos a
+    subir los cambios, así: origin </rama/>
+
+*Nota*:
+
+  * La primera vez al realizar un repositorio agregamos unos comandos
+    que nos permiten darle a Git un poco de información sobre nosotros,
+    esto con el fin de identificar quien realiza los cambios, cuando se
+    trabaja en equipo
+  * Para eliminar o cambiar el estado de un archivo del repositorio se
+    usa el comando gir rm <archivo>, pero si queda guardado en cache
+    usamos git rm --cached <archivo>
+  * En los flags cuando esta con un solo - indica que es la letra la que
+    se usa, cuando esta o colocamos – usamos la palabra completa.
+
+Ver más
+Responder
+Marcelo Sánchez
+
+Marcelo Sánchez
+
+hace 3 años <https://platzi.com/comentario/866783/>
+3
+
+Un genio freddy, muy bien explicado todo.
+
+Responder
+Luis Daniel Urrutia Mateus
+
+Luis Daniel Urrutia Mateus
+
+hace 6 meses <https://platzi.com/comentario/866783/>
+1
+
+Nada del otro mundo en youtube esta esto
+
+youngsinlim
+
+youngsinlim
+
+hace 3 años <https://platzi.com/comentario/597466/>
+3
+
+pregunta, si uso dos servicios distintos de git como GitHub y bitbucket
+como puedo configurar el usuario y email si uso cuentas de correo
+distintas para los dos servicios?
+
+Responder
+anibalrojas
+
+anibalrojas
+
+Profe Platzihace 3 años <https://platzi.com/comentario/597466/>
+3
+
+Con una configuración por proyecto específica a cada repo en el que
+estés trabajando, cuando esta no existe git toma la global. Básicamente
+ejecutas el git config en el repo sin el switch global
+
+Mariangelica Useche
+
+Mariangelica Useche
+
+Profe Platzihace 3 años <https://platzi.com/comentario/597466/>
+3
+
+¡Hola! Sí puedes hacerlo. Al usar $ git config --global user.email
+email@mail.com Estás configurando ese email globalmente (valga la
+redundancia), entonces tomará por defecto este valor. Ahora, si quieres
+tener una configuración específica para un repositorio, puedes usar el
+comando sin la opción "--global": $ git config user.email
+email2@mail.com De esta manera, puedes tener configuraciones específicas
+para cada proyecto, manteniendo la configuración global que será tomada
+por defecto. Espero haberte ayudado. Saludos.
+Ver más <https://platzi.com/comentario/597466/>
+Dani Ospina
+
+Dani Ospina
+
+Platzi Teamhace 2 años <https://platzi.com/comentario/2132413/>
+3
+
+Hola, en git config --list aparece mi email y user name pero al hacer el
+commit me aparece como si no estuviera. Alguien me puede ayudar por
+favor. Gracias.
+
+Responder
+Enmanuel Jose Medina Delgado
+
+Enmanuel Jose Medina Delgado
+
+hace 2 años <https://platzi.com/comentario/1230305/>
+3
+
+Responder
+Diana Carolina Torres Castaño
+
+Diana Carolina Torres Castaño
+
+hace 2 años <https://platzi.com/comentario/1230305/>
+1
+
+jejejejejejeje
+
+Irving Juárez
+
+Irving Juárez
+
+hace un año <https://platzi.com/comentario/2220910/>
+3
+
+Si quieren saltarse el paso de hacer el |add|, solo agreguen la bandera
+|-a|. Por ejemplo:
+
+|git commit -a -m "Freddy es un año mas viejo"
+
+|
+
+Y automáticamente se hace el |add| y el |commit| en un solo comando
+
+Responder
+Daniel Saldarriaga
+
+Daniel Saldarriaga
+
+hace 2 años <https://platzi.com/comentario/1994791/>
+3
+
+En octubre de 2020, GutHub cambió el branch por defecto de “master” a
+“main” para evitar referencias a la esclavitud:
+
+https://www.xataka.com/aplicaciones/master-blacklist-mundo-software-se-rebela-referencias-a-esclavitud <https://www.xataka.com/aplicaciones/master-blacklist-mundo-software-se-rebela-referencias-a-esclavitud>
+
+https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/ <https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/>
+
+Responder
+Sandro Xavier Huaynasi Calcina
+
+Sandro Xavier Huaynasi Calcina
+
+hace 3 años <https://platzi.com/comentario/726827/>
+3
+
+¿Cómo puedo solo cambiar el comentario de un commit?
+
+Responder
+leonmg
+
+leonmg
+
+hace 3 años <https://platzi.com/comentario/726827/>
+5
+
+Puedes usar el comando
+
+|git commit --amend
+
+|
+
+Juan David Castro Gallego
+
+Juan David Castro Gallego
+
+Profe Platzihace 3 años <https://platzi.com/comentario/726827/>
+3
+
+😉👉 https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/
+<https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/>
+
+Nicolas Esteban Prieto Sarmiento
+
+Nicolas Esteban Prieto Sarmiento
+
+hace 3 años <https://platzi.com/comentario/636377/>
+3
+
+En
+
+|git config --list
+
+|
+
+da la misma con -l
+
+|git config -l
+
+|
+
+Ver más
+Responder
+Jhosep Pérez
+
+Jhosep Pérez
+
+hace 3 años <https://platzi.com/comentario/612894/>
+3
+
+Para este curso veo los videos dos veces y voy anotando todos los
+comandos en un Wordpad 😄
+
+Responder
+Luis Diaz
+
+Luis Diaz
+
+hace 3 años <https://platzi.com/comentario/608570/>
+3
+
+excelente dato, no sabia que se podia abrir visual studio tan rapido
+desde la terminal
+
+Responder
+Ken Esparta Ccorahua
+
+Ken Esparta Ccorahua
+
+hace 3 años <https://platzi.com/comentario/608570/>
+4
+
+Con el comando |code .| puedes abrir el VSCode con todo el contenido de
+tu carpeta actual.
+
+Santiago Ricci
+
+Santiago Ricci
+
+hace 3 años <https://platzi.com/comentario/608570/>
+6
+
+Para aquellos que al escribir code no abre visual studio deben hacer lo
+siguiente:
+1- Abrir Visual Studio y entrar a la paleta de comandos ( ⌘+ ⇧+ P en Mac).
+2- Escribir shell command para encontrar Shell Command: Install ‘code’
+command in PATH command, enter en dicha opción.
+3- Reiniciar terminal.
+
+Listo!!!
+
+Johan Manuel Perez Soto
+
+Johan Manuel Perez Soto
+
+hace 3 años <https://platzi.com/comentario/626323/>
+3
+
+Responder
+Haxel Lázgare Rendón
+
+Haxel Lázgare Rendón
+
+hace 3 años <https://platzi.com/comentario/712767/>
+3
+
+Les anexo una liga de comandos elementales para git:
+
+https://www.hostinger.mx/tutoriales/comandos-de-git
+<https://www.hostinger.mx/tutoriales/comandos-de-git>
+
+Responder
+César David Arroyo Torres
+
+César David Arroyo Torres
+
+hace 3 años <https://platzi.com/comentario/708014/>
+3
+
+Si el archivo lo quieren modificar ahi mismo en consola, usen el comando
+“vi” seguido del nombre del archivo, modifican y para salir pulsan esc :wq
+
+Responder
+Diana Marcela Vargas Ortega
+
+Diana Marcela Vargas Ortega
+
+hace 3 años <https://platzi.com/comentario/730403/>
+3
+
+Excelente, la verdad git me tenia frustrada… pero ya entendi mejor 😄
+
+Responder
+Kevin José Guzmán Ventura
+
+Kevin José Guzmán Ventura
+
+hace 3 años <https://platzi.com/comentario/740156/>
+3
+
+|Fam. Guzman Gonzalez@DESKTOP-IDM3MVO MINGW64 /c/users
+$ mkdir proyecto2/
+mkdir: cannot create directory ‘proyecto2/’: Permission denied
+
+|
+
+eso me indica cuando quiero hacer mi carpeta
+¿Quien me puede ayudar?
+
+Ver más
+Responder
+Alejandro Jimenez
+
+Alejandro Jimenez
+
+hace 3 años <https://platzi.com/comentario/740156/>
+2
+
+Quítale el “/” del final
+
+Jhon Wilchez
+
+Jhon Wilchez
+
+hace 2 años <https://platzi.com/comentario/1199801/>
+3
+
+git add . (Agrega archivo a cache)
+git rm --cached (Borra cambio de la cache)
+git add .
+git commit -m “Comentario” (Guarda Cambios despues de un git add .)
+git status (revisa el estado del archivo)
+
+Responder
+José Sánchez
+
+José Sánchez
+
+hace 3 años <https://platzi.com/comentario/901671/>
+3
+
+Me parece que hay un error en la explicación, el comando “git rm” (sin
+--cached) provoca un error en la terminal y no causa ningún cambio en el
+archivo involucrado, creo que la única forma de deshacer el proceso de
+“git add <file>” es con “git rm --cached <file>”.
+
+Responder
+Mrinternauta
+
+Mrinternauta
+
+hace 3 años <https://platzi.com/comentario/891649/>
+3
+
+*Comandos de GIT*
+
+|git config --list //Lista las configuraciones
+git config --global user.name "Mr Internauta"
+git config --global user.email "correo@correo.com"
+git init //Inicializar un directorio como un proyecto git
+git add nombreArchivo.txt //añadir un archivo al staging
+git add . //añadir todos los archivos al staging
+git commit -m "mensaje (version1)" //Añadir los cambios a la rama master(Se puede realizar el commit sin el mensaje pero es mala practica)
+git status //ver el estado actual del proyecto
+git log //ver los cambios del proyecto
+git log nombreArchivo.txt //Se pueden ver los cambios de un archivo en particular
+
+|
+
+Ver más
+Responder
+UlisesSG
+
+UlisesSG
+
+hace 3 años <https://platzi.com/comentario/897271/>
+3
+
+*Los $ no debes escribirlos
+
+|1)Añade tu usuario y email
+
+|
+
+$ git config --global user.name <http://user.name/> “” añades usuario.
+$git config --global --unset-all user.name <http://user.name/> para
+eliminar el usuario.
+$git config --global user.email “” añades tu correo.
+$git config --global --unset-all user.email para eliminar el correo.
+$git config -l o $git config –global --list si quieres verificar que lo
+hiciste bien.
+
+|2)Crea el directorio
+
+|
+
+cd ~ para ir a la carpeta de tu usuario.
+mkdir para crear el directorio.
+
+|3)Luego crea el repositorio (master) y staging.
+
+|
+
+$git init para crear el repositorio y staging, recuerda hacerlo en el
+directorio que creaste.
+$rm -rf .git para eliminar el repositorio y staging.
+
+|4)Crea un archivo
+
+|
+
+$touch (recuerda añadir la extensión de archivo: .txt)
+
+|5)Escribe en ese archivo
+
+|
+
+Puedes hacerlo desde tu editor de código o en el bloc de notas (NUNCA en
+Word).
+
+|6)Guarda el archivo en staging
+
+|
+
+$git add
+
+|7)Guarda el archivo en el repositorio(master)
+
+|
+
+$git commit -m “” (recuerda dejar un mensaje).
+$git commit . -m “” para guardar todos los archivos que estén en staging
+en el repositorio.
+$git commit historia.txt -m “” para guardar un archivo especifico en el
+repositorio.
+
+|8)Verifica 
+
+|
+
+$git status para verificar el estado del archivo, debe decir “nothing to
+commit, working tree clean”
+
+|9)Cambia el archivo a unstaged 	
+
+|
+
+Luego de realizar el commit vuelve a modificar el archivo, guárdalo y
+verifica su status, esto hará que esté unstaged (El archivo está
+tracked, pero git desconoce qué cambios hay), para solucionarlo repite
+los pasos 6 y 7
+
+Ver más
+Responder
+Carlos Miguel Briceño Garcia
+
+Carlos Miguel Briceño Garcia
+
+hace 2 años <https://platzi.com/comentario/967277/>
+3
+
+proyecto 1 no era un grupo de merengue?..disculpem, era solo el chiste
+malo del dia…
+
+Responder
+EdwardMSep
+
+EdwardMSep
+
+hace 2 años <https://platzi.com/comentario/1014457/>
+3
+
+Lo mejor de este curso es que puedo aprender a mi ritmo, pausando y
+adelantando cuanto quiero. Gracias Freddy, buena clase.
+
+Responder
+
+
+Se agrega un comentario ejemplo. pero a la vez se modifica para comprender git.
+>>>>>>> ce8f7cecb1f4380a96fe99244df035b32d6c0f34
+en platzi.
